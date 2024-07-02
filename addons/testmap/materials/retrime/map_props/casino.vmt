@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "retrime/casino"
+	"$bumpmap" "retrime/casino_n"
+	"$translucent" 1
+}
+
