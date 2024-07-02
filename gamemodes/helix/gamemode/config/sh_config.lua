@@ -11,14 +11,14 @@ ix.config.language = "english"
 	Use the menu to change the variables, not this file.
 --]]
 
-ix.config.Add("maxCharacters", 5, "The maximum number of characters a player can have.", nil, {
+ix.config.Add("maxCharacters", 2, "The maximum number of characters a player can have.", nil, {
 	data = {min = 1, max = 50},
 	category = "characters"
 })
 
 ix.config.Add("defaultFlags", "pte", "The default flags of character.", nil, {category = "characters"})
 
-ix.config.Add("color", Color(75, 119, 190, 255), "The main color theme for the framework.", function(oldValue, newValue)
+ix.config.Add("color", Color(122, 73, 191, 255), "The main color theme for the framework.", function(oldValue, newValue)
 	if (newValue.a != 255) then
 		ix.config.Set("color", ColorAlpha(newValue, 255))
 		return
@@ -98,7 +98,7 @@ ix.config.Add("saveInterval", 300, "How often characters save in seconds.", nil,
 	data = {min = 60, max = 3600},
 	category = "characters"
 })
-ix.config.Add("walkSpeed", 130, "How fast a player normally walks.", function(oldValue, newValue)
+ix.config.Add("walkSpeed", 100, "How fast a player normally walks.", function(oldValue, newValue)
 	for _, v in player.Iterator()	do
 		v:SetWalkSpeed(newValue)
 	end
@@ -106,7 +106,7 @@ end, {
 	data = {min = 75, max = 500},
 	category = "characters"
 })
-ix.config.Add("runSpeed", 235, "How fast a player normally runs.", function(oldValue, newValue)
+ix.config.Add("runSpeed", 205, "How fast a player normally runs.", function(oldValue, newValue)
 	for _, v in player.Iterator()	do
 		v:SetRunSpeed(newValue)
 	end
@@ -145,7 +145,7 @@ ix.config.Add("minMoneyDropAmount", 1, "The minimum amount of money that can be 
 	category = "characters",
 	data = {min = 1, max = 1000}
 })
-ix.config.Add("allowVoice", false, "Whether or not voice chat is allowed.", function(oldValue, newValue)
+ix.config.Add("allowVoice", true, "Whether or not voice chat is allowed.", function(oldValue, newValue)
 	if (SERVER) then
 		hook.Run("VoiceToggled", newValue)
 	end

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$decal" 1
+	"$basetexture" "retrime/casino_background"
+	"$bumpmap" "retrime/casino_background_n"
+	"$decalscale" 0.25
+	"$translucent" 1
+}
+

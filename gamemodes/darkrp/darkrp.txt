@@ -1,8 +1,8 @@
 
-"scprp"
+"darkrp"
 {
 	"base" 			"helix"
-	"title" 		"SCP-RP"
+	"title" 		"DarkRP"
 	"author" 		"everyofflineuser"
 	"menusystem"	"1"
 }
