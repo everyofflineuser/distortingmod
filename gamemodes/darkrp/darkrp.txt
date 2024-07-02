@@ -1,0 +1,8 @@
+
+"scprp"
+{
+	"base" 			"helix"
+	"title" 		"SCP-RP"
+	"author" 		"everyofflineuser"
+	"menusystem"	"1"
+}

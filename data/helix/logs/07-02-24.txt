@@ -1,0 +1,26 @@
+[00:00:57]	ZZZVVVOOO has taken 8 damage from Penisa v rot.
+[00:01:04]	Penisa v rot entered observer.
+[00:01:04]	Penisa v rot exited observer.
+[00:01:05]	Penisa v rot entered observer.
+[00:01:05]	Penisa v rot exited observer.
+[00:01:06]	Penisa v rot entered observer.
+[00:01:06]	Penisa v rot exited observer.
+[00:01:06]	Penisa v rot entered observer.
+[00:01:08]	Penisa v rot exited observer.
+[00:01:09]	Penisa v rot entered observer.
+[00:01:09]	Penisa v rot exited observer.
+[00:01:11]	ZZZVVVOOO has taken 8 damage from Penisa v rot.
+[00:01:12]	ZZZVVVOOO has taken 8 damage from Penisa v rot.
+[00:01:40]	Penisa v rot has taken 100 damage from gmod_thruster.
+[00:01:40]	gmod_thruster has killed Penisa v rot.
+[00:01:51]	Penisa v rot entered observer.
+[00:01:53]	Penisa v rot exited observer.
+[00:01:59]	[OOC] ZZZVVVOOO: / шо по фпс?
+[00:02:08]	Penisa v rot entered observer.
+[00:02:08]	Penisa v rot exited observer.
+[00:02:09]	Penisa v rot entered observer.
+[00:02:09]	Penisa v rot exited observer.
+[00:02:10]	Penisa v rot entered observer.
+[00:02:10]	Penisa v rot exited observer.
+[00:02:28]	[OOC] ZZZVVVOOO: Мне идти надо
+[00:02:30]	Natri ❤ (STEAM_0:0:485376873) has disconnected.
