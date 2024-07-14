@@ -1,0 +1,14 @@
+VertexlitGeneric {
+    $basetexture "models/conceptbine_policeforce/grom_gloves_tundra_d" // nemez did the retexture. Yes, I will confuse people with this.
+    $bumpmap "models/conceptbine_policeforce/grom_gloves_n"
+
+    $phong                  1
+    $phongboost             0.5
+//  $phongexponent          6
+    $phongfresnelranges     "[ 0 .5 1 ]"
+    $phongexponenttexture "models/conceptbine_policeforce/grom_gloves_s"
+        
+    $rimlight 1
+    $rimlightboost 0.2
+    $rimlightexponent 12
+}

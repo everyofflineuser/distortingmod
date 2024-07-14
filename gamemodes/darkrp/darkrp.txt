@@ -1,8 +1,16 @@
-
 "darkrp"
 {
-	"base" 			"helix"
-	"title" 		"DarkRP"
-	"author" 		"everyofflineuser"
-	"menusystem"	"1"
+	"base"		"helix"
+	"title"         "DarkRP"
+    	"version"       "2.7.0"
+    	"category"      "rp"
+    	"menusystem"    "1"
+
+    	"author_name"   "FPtje Falco et al."
+    	"author_email"  ""
+    	"author_url"    "https://github.com/FPtje/DarkRP"
+
+    	"icon"  ""
+    	"info"  ""
+    	"hide"  "0"
 }

@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$decal" 1
-	"$basetexture" "retrime/road_sign"
-	"$bumpmap" "retrime/road_sign_n"
-	"$decalscale" 0.25
-	"$translucent" 1
-}
-

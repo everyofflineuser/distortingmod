@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	$BaseTexture 			   "models\conceptbine_policeforce\police_mask_d"
+	$BumpMap 				   "models\conceptbine_policeforce\police_mask_n"
+
+	$phong 					   1
+	$phongboost 			   0.4
+	$phongfresnelranges 	   "[ 0 0.5 1 ]"
+	$phongsonenttexture      "models\conceptbine_policeforce\police_mask_s"
+
+	// This $detail parameter does add much more illuminance to the glowing stuff, so I use it.
+
+	$detail 				   "models\conceptbine_policeforce\police_mask_e"
+	$detailscale 			   1
+	$detailblendfactor 	   	   1
+	$detailblendmode 		   1
+
+	$rimlight                  1
+	$rimlightsonent          2
+	$rimlightboost             .2
+
+	$selfillum				   1
+	$selfillumtint			   "[ 0 1 0 ]"
+	$selfillummask			   "models\conceptbine_policeforce\police_mask_e"
+}

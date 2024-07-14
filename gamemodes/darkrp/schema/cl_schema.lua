@@ -1,11 +1,6 @@
 
--- Here is where all of your clientside functions should go.
-
--- Example client function that will print to the chatbox.
-function Schema:ExampleFunction(text, ...)
-	if (text:sub(1, 1) == "@") then
-		text = L(text:sub(2), ...)
+function Schema:AddCombineDisplayMessage(text, color, ...)
+	if (LocalPlayer():IsCombine() and IsValid(ix.gui.combine)) then
+		ix.gui.combine:AddLine(text, color, nil, ...)
 	end
-
-	LocalPlayer():ChatPrint(text)
 end

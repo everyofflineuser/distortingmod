@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+    $basetexture    "models/conceptbine_policeforce/c17i4_d"
+    $bumpmap        "models/conceptbine_policeforce/c17i4_n"
+
+    $phong                  1
+    $phongboost             0.5
+    $phongexponent          6
+    $phongfresnelranges     "[ 0 .5 1 ]"
+    
+    $rimlight 1
+    $rimlightboost 0.2
+    $rimlightexponent 12
+}

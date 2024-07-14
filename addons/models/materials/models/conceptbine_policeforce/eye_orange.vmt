@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	$BaseTexture	"models\conceptbine_policeforce\eye_base"
+	$color2	"[1 0.5 0]"
+	
+	$detail 				   "models\conceptbine_policeforce\eye_base"
+	$detailscale 			   1
+	$detailblendfactor 	   	   5
+	$detailblendmode 		   1
+
+	$selfillum				   1
+	$selfillummask			   "models\conceptbine_policeforce\eye_base"
+}

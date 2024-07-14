@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	$BaseTexture	"models\conceptbine_policeforce\eye_base"
+	$color2	"[0.5 0.5 0.5]" // darker!
+	
+	$detail 				   "models\conceptbine_policeforce\eye_base"
+	$detailscale 			   1
+	$detailblendfactor 	   	   5
+	$detailblendmode 		   1
+
+	$selfillum				   0 // Disabled for a more dead effect, as if cut off.
+	$selfillummask			   "models\conceptbine_policeforce\eye_base"
+}

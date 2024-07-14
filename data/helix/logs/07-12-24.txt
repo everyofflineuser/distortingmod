@@ -1,0 +1,495 @@
+[18:03:18]	everyofflineuser has connected.
+[18:03:39]	everyofflineuser loaded the character 'Russian'
+[18:04:13]	Russian entered observer.
+[18:04:13]	Russian exited observer at their location.
+[18:04:14]	Russian entered observer.
+[18:04:14]	Russian exited observer at their location.
+[18:04:14]	Russian entered observer.
+[18:04:14]	Russian exited observer at their location.
+[18:04:15]	Russian entered observer.
+[18:04:16]	Russian exited observer at their location.
+[18:04:17]	Russian entered observer.
+[18:04:17]	Russian exited observer at their location.
+[18:04:27]	Russian ran 'drop' on item 'Suitcase' (#1)
+[18:04:27]	Russian has lost a 'Suitcase' #1.
+[18:04:34]	Russian ran 'take' on item 'Suitcase' (#1)
+[18:04:34]	Russian has gained a 'Suitcase' #1.
+[18:04:40]	Russian ran 'drop' on item 'Citizen ID' (#2)
+[18:04:40]	Russian has lost a 'Citizen ID' #2.
+[18:04:45]	Russian ran 'take' on item 'Citizen ID' (#2)
+[18:04:45]	Russian has gained a 'Citizen ID' #2.
+[18:06:09]	Tumrar-[Отец miwelor] has connected.
+[18:06:42]	Russian entered observer.
+[18:06:53]	Russian exited observer at their location.
+[18:07:33]	Russian used command '/BecomeClass ГОК'.
+[18:07:53]	Tumrar-[Отец miwelor] created the character 'Tumrar'
+[18:07:53]	Tumrar has gained a 'Suitcase' #3.
+[18:07:53]	Tumrar has gained a 'Citizen ID' #4.
+[18:07:53]	Tumrar-[Отец miwelor] loaded the character 'Tumrar'
+[18:08:01]	Russian used command '/BecomeClass cwu'.
+[18:08:30]	Tumrar entered observer.
+[18:08:30]	Russian used command '/CharSetClass Russian cwu'.
+[18:09:03]	Tumrar exited observer.
+[18:09:04]	Russian entered observer.
+[18:09:07]	Tumrar entered observer.
+[18:09:17]	Russian exited observer at their location.
+[18:09:26]	Tumrar exited observer.
+[18:09:29]	Tumrar entered observer.
+[18:09:42]	Russian entered observer.
+[18:09:45]	Tumrar exited observer.
+[18:09:51]	Russian exited observer at their location.
+[18:09:51]	Russian entered observer.
+[18:10:17]	Russian exited observer at their location.
+[18:10:30]	Tumrar has taken 8 damage from Russian.
+[18:10:31]	Tumrar has taken 8 damage from Russian.
+[18:10:31]	Russian has taken 12 damage from Tumrar.
+[18:10:31]	Russian has taken 24 damage from Tumrar.
+[18:10:31]	Russian has taken 24 damage from Tumrar.
+[18:10:31]	Russian has taken 24 damage from Tumrar.
+[18:10:31]	Russian has taken 24 damage from Tumrar.
+[18:10:31]	Tumrar has killed Russian with weapon_smg1.
+[18:10:44]	Tumrar has spawned a 'Entity [343][item_ammo_smg1_large]'.
+[18:10:44]	Tumrar has spawned a 'Entity [362][item_ammo_smg1_large]'.
+[18:10:44]	Tumrar has spawned a 'Entity [363][item_ammo_smg1_large]'.
+[18:10:44]	Russian entered observer.
+[18:10:45]	Russian exited observer at their location.
+[18:10:48]	Russian entered observer.
+[18:10:48]	Tumrar has spawned a 'Entity [256][item_ammo_smg1_grenade]'.
+[18:10:48]	Tumrar has spawned a 'Entity [332][item_ammo_smg1_grenade]'.
+[18:10:48]	Tumrar has spawned a 'Entity [343][item_ammo_smg1_grenade]'.
+[18:10:48]	Tumrar has spawned a 'Entity [362][item_ammo_smg1_grenade]'.
+[18:10:48]	Tumrar has spawned a 'Entity [363][item_ammo_smg1_grenade]'.
+[18:10:51]	Russian exited observer at their location.
+[18:10:57]	Tumrar has taken 150 damage from Russian.
+[18:10:57]	Russian has killed Tumrar with weapon_357.
+[18:10:59]	Tumrar used command '/CharGetUp'.
+[18:11:12]	Tumrar entered observer.
+[18:11:12]	Tumrar exited observer.
+[18:11:30]	Russian used command '/CharSetClass Tumrar ota'.
+[18:11:57]	Russian used command '/CharSetClass Tumrar eos'.
+[18:12:00]	Russian used command '/CharSetClass Tumrar elite_overwatch_soldier'.
+[18:12:10]	Russian used command '/CharSetClass Tumrar elite_overwatch_soldier'.
+[18:12:51]	Tumrar has spawned a 'Entity [332][item_ammo_357_large]'.
+[18:12:51]	Tumrar has spawned a 'Entity [365][item_ammo_357_large]'.
+[18:13:21]	Russian entered observer.
+[18:13:27]	Russian exited observer at their location.
+[18:13:28]	Tumrar entered observer.
+[18:13:28]	Russian entered observer.
+[18:13:28]	Russian exited observer at their location.
+[18:13:35]	Russian has taken 75 damage from Tumrar.
+[18:13:48]	Russian entered observer.
+[18:14:03]	Tumrar exited observer.
+[18:14:05]	Tumrar has taken 75 damage from Russian.
+[18:14:07]	Tumrar entered observer.
+[18:14:19]	Tumrar exited observer.
+[18:14:32]	Tumrar has spawned a 'Entity [494][item_box_buckshot]'.
+[18:14:32]	Tumrar has spawned a 'Entity [495][item_box_buckshot]'.
+[18:14:33]	Tumrar has spawned a 'Entity [511][item_box_buckshot]'.
+[18:14:33]	Tumrar has spawned a 'Entity [526][item_box_buckshot]'.
+[18:14:51]	Tumrar has spawned a 'Entity [495][item_ammo_smg1_large]'.
+[18:14:51]	Tumrar has spawned a 'Entity [511][item_ammo_smg1_large]'.
+[18:14:52]	Tumrar has spawned a 'Entity [526][item_ammo_smg1_large]'.
+[18:14:52]	Tumrar has spawned a 'Entity [495][item_ammo_smg1_large]'.
+[18:14:54]	Tumrar has spawned a 'Entity [495][item_ammo_smg1_grenade]'.
+[18:14:54]	Tumrar has spawned a 'Entity [511][item_ammo_smg1_grenade]'.
+[18:14:54]	Tumrar has spawned a 'Entity [526][item_ammo_smg1_grenade]'.
+[18:14:55]	Tumrar has spawned a 'Entity [535][item_ammo_smg1_grenade]'.
+[18:14:55]	Tumrar has spawned a 'Entity [536][item_ammo_smg1_grenade]'.
+[18:14:55]	Tumrar has spawned a 'Entity [537][item_ammo_smg1_grenade]'.
+[18:14:55]	Tumrar has spawned a 'Entity [495][item_ammo_smg1_grenade]'.
+[18:14:55]	Tumrar has spawned a 'Entity [511][item_ammo_smg1_grenade]'.
+[18:14:56]	Tumrar has spawned a 'Entity [526][item_ammo_smg1_grenade]'.
+[18:14:56]	Tumrar has spawned a 'Entity [535][item_ammo_smg1_grenade]'.
+[18:14:56]	Tumrar has spawned a 'Entity [536][item_ammo_smg1_grenade]'.
+[18:14:56]	Tumrar has spawned a 'Entity [537][item_ammo_smg1_grenade]'.
+[18:14:56]	Tumrar has spawned a 'Entity [495][item_ammo_smg1_grenade]'.
+[18:14:56]	Tumrar has spawned a 'Entity [511][item_ammo_smg1_grenade]'.
+[18:14:57]	Tumrar has spawned a 'Entity [526][item_ammo_smg1_grenade]'.
+[18:14:57]	Tumrar has spawned a 'Entity [535][item_ammo_smg1_grenade]'.
+[18:14:57]	Tumrar has spawned a 'Entity [536][item_ammo_smg1_grenade]'.
+[18:15:02]	Tumrar has taken 122 damage from Russian.
+[18:15:02]	Russian has killed Tumrar with weapon_rpg.
+[18:15:11]	Russian exited observer at their location.
+[18:15:20]	Tumrar has spawned a 'Entity [343][item_suit]'.
+[18:15:25]	Tumrar has spawned a 'Entity [343][combine_mine]'.
+[18:15:26]	Tumrar has taken 126 damage from combine_mine.
+[18:15:26]	combine_mine has killed Tumrar.
+[18:15:26]	Russian has taken 46 damage from combine_mine.
+[18:15:26]	combine_mine has killed Russian.
+[18:15:28]	Russian used command '/CharGetUp'.
+[18:15:29]	Russian used command '/CharGetUp'.
+[18:15:29]	Russian used command '/CharGetUp'.
+[18:15:30]	Russian used command '/CharGetUp'.
+[18:15:31]	Russian used command '/CharGetUp'.
+[18:15:31]	Russian used command '/CharGetUp'.
+[18:15:37]	Russian has spawned a 'Entity [256][ix_combinelock]'.
+[18:15:46]	Russian has spawned a 'Entity [343][ix_combinelock]'.
+[18:15:50]	Tumrar has spawned a 'Entity [541][item_healthvial]'.
+[18:15:57]	Russian entered observer.
+[18:15:59]	Russian exited observer at their location.
+[18:16:00]	Russian has spawned a 'Entity [723][ix_combinelock]'.
+[18:16:19]	Russian has spawned a 'Entity [538][ix_rationdispenser]'.
+[18:16:34]	Russian ran 'drop' on item 'Citizen ID' (#2)
+[18:16:34]	Russian has lost a 'Citizen ID' #2.
+[18:16:45]	Tumrar ran 'Open' on item 'Ration' (#5)
+[18:16:45]	Tumrar has gained 20 tokens.
+[18:16:45]	Tumrar has gained a 'Supplements' #6.
+[18:16:45]	Tumrar has gained a 'Breen's Water' #7.
+[18:17:02]	Russian has spawned a 'Entity [364][item_suit]'.
+[18:17:05]	Russian entered observer.
+[18:17:21]	Russian ran 'take' on item 'Citizen ID' (#2)
+[18:17:21]	Russian has gained a 'Citizen ID' #2.
+[18:17:23]	Russian exited observer at their location.
+[18:17:40]	Russian has spawned a 'Entity [365][ix_forcefield]'.
+[18:17:45]	Russian ran 'Open' on item 'Ration' (#8)
+[18:17:45]	Russian has gained 20 tokens.
+[18:17:45]	Russian has gained a 'Supplements' #9.
+[18:17:45]	Russian has gained a 'Breen's Water' #10.
+[18:17:56]	Russian has spawned a 'Entity [475][ix_forcefield]'.
+[18:18:09]	Russian has spawned a 'Entity [256][ix_vendingmachine]'.
+[18:18:12]	Russian has lost 15 tokens.
+[18:18:15]	Tumrar ran 'Drink' on item 'Breen's Water' (#11)
+[18:18:46]	Tumrar has spawned a 'Entity [256][item_ammo_ar2_large]'.
+[18:18:46]	Tumrar has spawned a 'Entity [365][item_ammo_ar2_large]'.
+[18:19:22]	Tumrar has spawned a 'Entity [364][item_ammo_ar2_altfire]'.
+[18:19:22]	Tumrar has taken 75 damage from Russian.
+[18:19:22]	Tumrar has spawned a 'Entity [365][item_ammo_ar2_altfire]'.
+[18:19:22]	Tumrar has spawned a 'Entity [396][item_ammo_ar2_altfire]'.
+[18:19:23]	Tumrar has taken 75 damage from Russian.
+[18:19:23]	Russian has killed Tumrar with weapon_357.
+[18:19:34]	Tumrar has spawned a 'Entity [332][item_ammo_ar2_large]'.
+[18:19:35]	Tumrar has spawned a 'Entity [362][item_ammo_ar2_large]'.
+[18:19:36]	Tumrar has spawned a 'Entity [332][item_ammo_ar2_altfire]'.
+[18:19:37]	Tumrar has spawned a 'Entity [362][item_ammo_ar2_altfire]'.
+[18:19:47]	Tumrar has spawned a 'Entity [362][item_ammo_357_large]'.
+[18:19:47]	Tumrar has spawned a 'Entity [396][item_ammo_357_large]'.
+[18:19:52]	Russian entered observer.
+[18:19:53]	Russian exited observer at their location.
+[18:19:54]	Russian entered observer.
+[18:19:54]	Russian exited observer at their location.
+[18:19:54]	Russian entered observer.
+[18:19:55]	Russian exited observer at their location.
+[18:19:56]	Russian entered observer.
+[18:19:57]	Russian exited observer at their location.
+[18:19:58]	Russian entered observer.
+[18:19:59]	Russian exited observer at their location.
+[18:20:00]	Russian entered observer.
+[18:20:05]	Russian exited observer at their location.
+[18:20:08]	Russian entered observer.
+[18:20:10]	Russian exited observer at their location.
+[18:20:12]	Russian entered observer.
+[18:20:15]	Russian exited observer at their location.
+[18:20:16]	Tumrar has taken 8 damage from Russian.
+[18:20:17]	Tumrar has taken 8 damage from Russian.
+[18:20:18]	Tumrar has taken 8 damage from Russian.
+[18:20:19]	Tumrar has taken 8 damage from Russian.
+[18:20:20]	Tumrar has taken 8 damage from Russian.
+[18:20:21]	Tumrar has taken 8 damage from Russian.
+[18:20:22]	Tumrar has taken 8 damage from Russian.
+[18:20:23]	Tumrar has taken 8 damage from Russian.
+[18:20:24]	Tumrar has taken 8 damage from Russian.
+[18:20:25]	Tumrar has taken 8 damage from Russian.
+[18:20:25]	Tumrar has taken 8 damage from Russian.
+[18:20:26]	Tumrar has taken 8 damage from Russian.
+[18:20:27]	Tumrar has taken 8 damage from Russian.
+[18:20:27]	Russian has killed Tumrar with ix_hands.
+[18:20:54]	Tumrar-[Отец miwelor] (STEAM_0:0:638507627) has disconnected.
+[18:21:02]	Russian ran 'Eat' on item 'Supplements' (#9)
+[18:21:05]	Russian ran 'Drink' on item 'Breen's Water' (#10)
+[18:21:11]	Russian entered observer.
+[18:21:12]	Russian exited observer at their location.
+[18:21:17]	everyofflineuser (STEAM_0:0:71673197) has disconnected.
+[18:34:07]	everyofflineuser has connected.
+[18:34:33]	everyofflineuser loaded the character 'Penisa v rot'
+[18:34:51]	Penisa v rot has spawned a 'Entity [209][ix_vendor]'.
+[18:34:52]	Penisa v rot used the 'John Doe' vendor.
+[18:35:47]	Penisa v rot set vignette to '[false]'.
+[18:35:50]	Penisa v rot set vignette to '[true]'.
+[18:35:51]	Penisa v rot set vignette to '[false]'.
+[18:35:54]	Penisa v rot set vignette to '[true]'.
+[18:35:55]	Penisa v rot set vignette to '[false]'.
+[18:35:55]	Penisa v rot set vignette to '[true]'.
+[18:35:56]	Penisa v rot set vignette to '[false]'.
+[18:35:56]	Penisa v rot set vignette to '[true]'.
+[18:35:56]	Penisa v rot set vignette to '[false]'.
+[18:35:56]	Penisa v rot set vignette to '[true]'.
+[18:35:56]	Penisa v rot set vignette to '[false]'.
+[18:35:57]	Penisa v rot set vignette to '[true]'.
+[18:35:57]	Penisa v rot set vignette to '[false]'.
+[18:35:57]	Penisa v rot set vignette to '[true]'.
+[18:35:57]	Penisa v rot set vignette to '[false]'.
+[18:35:57]	Penisa v rot set vignette to '[true]'.
+[18:35:57]	Penisa v rot set vignette to '[false]'.
+[18:35:58]	Penisa v rot set vignette to '[true]'.
+[18:35:58]	Penisa v rot set vignette to '[false]'.
+[18:35:58]	Penisa v rot set vignette to '[true]'.
+[18:35:58]	Penisa v rot set vignette to '[false]'.
+[18:35:58]	Penisa v rot set vignette to '[true]'.
+[18:35:58]	Penisa v rot set vignette to '[false]'.
+[18:35:58]	Penisa v rot set vignette to '[true]'.
+[18:35:58]	Penisa v rot set vignette to '[false]'.
+[18:35:58]	Penisa v rot set vignette to '[true]'.
+[18:35:58]	Penisa v rot set vignette to '[false]'.
+[18:35:59]	Penisa v rot set vignette to '[true]'.
+[18:36:06]	Penisa v rot entered observer.
+[18:36:15]	Penisa v rot exited observer at their location.
+[18:36:19]	Penisa v rot entered observer.
+[18:36:19]	Penisa v rot exited observer at their location.
+[18:36:19]	Penisa v rot entered observer.
+[18:36:19]	Penisa v rot exited observer at their location.
+[18:36:21]	Penisa v rot entered observer.
+[18:36:22]	Penisa v rot exited observer at their location.
+[18:36:33]	Penisa v rot entered observer.
+[18:36:37]	Penisa v rot exited observer at their location.
+[18:37:19]	Penisa v rot entered observer.
+[18:37:24]	Penisa v rot exited observer at their location.
+[18:37:24]	Penisa v rot entered observer.
+[18:37:25]	Penisa v rot exited observer at their location.
+[18:37:25]	Penisa v rot entered observer.
+[18:37:25]	Penisa v rot exited observer at their location.
+[18:37:28]	Penisa v rot entered observer.
+[18:37:30]	Penisa v rot exited observer at their location.
+[18:37:35]	Penisa v rot entered observer.
+[18:37:36]	Penisa v rot exited observer at their location.
+[18:38:13]	Penisa v rot entered observer.
+[18:40:43]	Penisa v rot used command '/Broadcast ABOBA'.
+[18:41:17]	Penisa v rot used command '/CharGiveFlag Penisa v rot V'.
+[18:41:20]	Penisa v rot exited observer at their location.
+[18:42:09]	Penisa v rot used command '/CharSetClass Penisa v rot ota'.
+[18:42:14]	Penisa v rot used command '/CharSetClass Penisa v rot elite_overwatch_soldier'.
+[18:42:43]	Penisa v rot used command '/CharSetClass Penisa v rot POLICERECRUIT'.
+[18:42:47]	Penisa v rot used command '/CharSetClass Penisa v rot POLICE_RECRUIT'.
+[18:42:56]	Penisa v rot used command '/CharSetClass Penisa v rot police_recruit'.
+[18:44:54]	Penisa v rot used command '/CharFallOver'.
+[18:44:56]	Penisa v rot used command '/CharGetUp'.
+[18:44:57]	Penisa v rot used command '/CharGetUp'.
+[18:45:03]	Penisa v rot used command '/CharGetUp'.
+[18:45:11]	Penisa v rot entered observer.
+[18:45:12]	Penisa v rot exited observer at their location.
+[18:45:12]	Penisa v rot has taken 195 damage from worldspawn.
+[18:45:12]	worldspawn has killed Penisa v rot.
+[18:46:35]	Penisa v rot used command '/CharSetClass Penisa v rot administrator'.
+[18:46:45]	Penisa v rot used command '/CharSetClass Penisa v rot Administrator'.
+[18:47:20]	Penisa v rot used command '/CharSetClass Penisa v rot Police Recruit'.
+[18:49:19]	everyofflineuser created the character 'MPF-RCT.12354'
+[18:49:19]	MPF-RCT.12354 has gained a '.9mm Pistol' #12.
+[18:49:19]	MPF-RCT.12354 has gained a '9mm Pistol Bullets' #13.
+[18:49:19]	MPF-RCT.12354 has gained a '9mm Pistol Bullets' #14.
+[18:49:23]	everyofflineuser loaded the character 'MPF-RCT.12354'
+[18:49:59]	MPF-RCT.12354 entered observer.
+[18:50:09]	MPF-RCT.12354 exited observer at their location.
+[18:50:25]	MPF-RCT.12354 entered observer.
+[18:50:46]	MPF-RCT.12354 exited observer at their location.
+[18:50:46]	MPF-RCT.12354 entered observer.
+[18:50:49]	MPF-RCT.12354 exited observer at their location.
+[18:51:50]	MPF-RCT.12354 has killed MPF-RCT.12354.
+[18:51:52]	MPF-RCT.12354 used command '/CharGetUp'.
+[18:53:11]	MPF-RCT.12354 ran 'Equip' on item '.9mm Pistol' (#12)
+[18:53:22]	MPF-RCT.12354 ran 'use' on item '9mm Pistol Bullets' (#13)
+[18:53:22]	MPF-RCT.12354 ran 'use' on item '9mm Pistol Bullets' (#14)
+[18:53:27]	MPF-RCT.12354 entered observer.
+[18:53:28]	MPF-RCT.12354 exited observer at their location.
+[18:53:51]	everyofflineuser (STEAM_0:0:71673197) deleted character 'Penisa v rot'
+[18:54:04]	everyofflineuser created the character 'OTA-ECHO.OWS-01743'
+[18:54:04]	OTA-ECHO.OWS-01743 has gained a '.9mm Pistol' #15.
+[18:54:04]	OTA-ECHO.OWS-01743 has gained a '9mm Pistol Bullets' #16.
+[18:54:04]	OTA-ECHO.OWS-01743 has gained a '9mm Pistol Bullets' #17.
+[18:54:04]	OTA-ECHO.OWS-01743 has gained a 'Pulse-Rifle' #18.
+[18:54:04]	OTA-ECHO.OWS-01743 has gained a 'Pulse-Rifle Energy' #19.
+[18:54:04]	OTA-ECHO.OWS-01743 has gained a 'Pulse-Rifle Energy' #20.
+[18:54:09]	everyofflineuser loaded the character 'OTA-ECHO.OWS-01743'
+[18:54:16]	everyofflineuser (STEAM_0:0:71673197) has disconnected.
+[18:54:32]	everyofflineuser has connected.
+[18:54:43]	everyofflineuser loaded the character 'OTA-ECHO.OWS-01743'
+[18:55:06]	OTA-ECHO.OWS-01743 ran 'Equip' on item 'Pulse-Rifle' (#18)
+[18:55:07]	OTA-ECHO.OWS-01743 ran 'use' on item 'Pulse-Rifle Energy' (#19)
+[18:55:23]	OTA-ECHO.OWS-01743 has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[18:55:26]	OTA-ECHO.OWS-01743 ran 'use' on item 'Pulse-Rifle Energy' (#20)
+[18:55:59]	everyofflineuser (STEAM_0:0:71673197) has disconnected.
+[19:07:27]	everyofflineuser has connected.
+[19:07:46]	everyofflineuser (STEAM_0:0:71673197) deleted character 'OTA-ECHO.OWS-01743'
+[19:07:50]	everyofflineuser (STEAM_0:0:71673197) deleted character 'MPF-RCT.12354'
+[19:07:59]	everyofflineuser created the character 'dasdas'
+[19:07:59]	dasdas has gained a 'Suitcase' #21.
+[19:07:59]	dasdas has gained a 'Citizen ID' #22.
+[19:07:59]	everyofflineuser loaded the character 'dasdas'
+[19:08:02]	dasdas entered observer.
+[19:09:00]	dasdas exited observer at their location.
+[19:09:01]	dasdas entered observer.
+[19:09:04]	dasdas exited observer at their location.
+[19:09:05]	dasdas entered observer.
+[19:09:06]	dasdas exited observer at their location.
+[19:09:07]	dasdas entered observer.
+[19:09:08]	dasdas exited observer at their location.
+[19:09:09]	dasdas entered observer.
+[19:09:09]	dasdas exited observer at their location.
+[19:09:10]	dasdas entered observer.
+[19:09:11]	dasdas exited observer at their location.
+[19:09:15]	dasdas entered observer.
+[19:09:40]	dasdas exited observer at their location.
+[19:09:46]	dasdas entered observer.
+[19:10:19]	dasdas exited observer at their location.
+[19:10:21]	dasdas entered observer.
+[19:10:22]	dasdas exited observer at their location.
+[19:10:38]	dasdas entered observer.
+[19:10:41]	dasdas exited observer at their location.
+[19:10:42]	dasdas has taken 3 damage from worldspawn.
+[19:10:57]	dasdas entered observer.
+[19:10:57]	dasdas exited observer at their location.
+[19:10:58]	dasdas entered observer.
+[19:10:58]	dasdas exited observer at their location.
+[19:10:59]	dasdas entered observer.
+[19:10:59]	dasdas exited observer at their location.
+[19:11:00]	dasdas entered observer.
+[19:11:00]	dasdas exited observer at their location.
+[19:11:01]	dasdas entered observer.
+[19:11:04]	dasdas exited observer at their location.
+[19:11:05]	dasdas entered observer.
+[19:11:09]	dasdas exited observer at their location.
+[19:11:10]	dasdas entered observer.
+[19:11:10]	dasdas exited observer at their location.
+[19:11:12]	dasdas entered observer.
+[19:11:13]	dasdas exited observer at their location.
+[19:11:46]	dasdas entered observer.
+[19:12:00]	dasdas exited observer at their location.
+[19:12:30]	dasdas entered observer.
+[19:12:31]	dasdas exited observer at their location.
+[19:12:37]	dasdas entered observer.
+[19:12:38]	dasdas exited observer at their location.
+[19:13:01]	dasdas entered observer.
+[19:13:05]	dasdas exited observer at their location.
+[19:13:13]	dasdas entered observer.
+[19:13:14]	dasdas exited observer at their location.
+[19:13:15]	dasdas entered observer.
+[19:13:15]	dasdas exited observer at their location.
+[19:13:17]	dasdas entered observer.
+[19:13:18]	dasdas exited observer at their location.
+[19:13:30]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:33]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:35]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:35]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:36]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:36]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:37]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:37]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:38]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:39]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:40]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:40]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:41]	dasdas has taken 8 damage from trigger_hurt.
+[19:13:41]	trigger_hurt has killed dasdas.
+[19:13:50]	dasdas entered observer.
+[19:13:50]	dasdas exited observer at their location.
+[19:13:50]	dasdas entered observer.
+[19:13:51]	dasdas exited observer at their location.
+[19:13:51]	dasdas entered observer.
+[19:13:51]	dasdas exited observer at their location.
+[19:13:52]	dasdas entered observer.
+[19:13:52]	dasdas exited observer at their location.
+[19:13:54]	dasdas has taken 18 damage from worldspawn.
+[19:13:59]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:00]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:01]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:02]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:02]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:03]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:04]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:05]	dasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:14:12]	dasdas has taken 106 damage from dasdas.
+[19:14:12]	dasdas has killed dasdas.
+[19:14:19]	dasdas entered observer.
+[19:14:36]	dasdas exited observer at their location.
+[19:14:39]	dasdas entered observer.
+[19:14:47]	dasdas exited observer at their location.
+[19:15:00]	dasdas entered observer.
+[19:15:47]	dasdas exited observer at their location.
+[19:15:48]	dasdas entered observer.
+[19:15:48]	dasdas exited observer at their location.
+[19:16:01]	dasdas entered observer.
+[19:16:33]	dasdas exited observer at their location.
+[19:16:53]	dasdas entered observer.
+[19:16:53]	dasdas exited observer at their location.
+[19:16:56]	dasdas entered observer.
+[19:16:57]	dasdas exited observer at their location.
+[19:16:57]	dasdas entered observer.
+[19:16:58]	dasdas exited observer at their location.
+[19:17:09]	dasdas entered observer.
+[19:17:11]	dasdas exited observer at their location.
+[19:17:35]	dasdas entered observer.
+[19:17:35]	dasdas exited observer at their location.
+[19:17:42]	dasdas entered observer.
+[19:17:42]	dasdas exited observer at their location.
+[19:17:43]	dasdas entered observer.
+[19:17:43]	dasdas exited observer at their location.
+[19:17:47]	dasdas has taken 129 damage from worldspawn.
+[19:17:47]	worldspawn has killed dasdas.
+[19:17:49]	dasdas used command '/CharGetUp'.
+[19:17:50]	dasdas used command '/CharGetUp'.
+[19:17:56]	dasdas entered observer.
+[19:17:56]	dasdas exited observer at their location.
+[19:17:59]	dasdas has taken 89 damage from worldspawn.
+[19:18:00]	dasdas entered observer.
+[19:18:00]	dasdas exited observer at their location.
+[19:18:01]	dasdas entered observer.
+[19:18:01]	dasdas exited observer at their location.
+[19:18:02]	dasdas entered observer.
+[19:18:06]	dasdas exited observer at their location.
+[19:18:45]	dasdas entered observer.
+[19:18:45]	dasdas exited observer at their location.
+[19:18:51]	dasdas entered observer.
+[19:19:02]	dasdas exited observer at their location.
+[19:19:03]	dasdas entered observer.
+[19:19:08]	dasdas exited observer at their location.
+[19:19:36]	dasdas has taken 1024 damage from mtro_lft.
+[19:19:36]	mtro_lft has killed dasdas.
+[19:19:40]	dasdas used command '/CharGetUp'.
+[19:19:40]	dasdas used command '/CharGetUp'.
+[19:19:43]	dasdas entered observer.
+[19:19:50]	dasdas exited observer at their location.
+[19:19:56]	dasdas has taken 1024 damage from mtro_lft.
+[19:19:56]	mtro_lft has killed dasdas.
+[19:20:03]	dasdas entered observer.
+[19:20:05]	dasdas exited observer at their location.
+[19:20:06]	dasdas entered observer.
+[19:20:09]	dasdas exited observer at their location.
+[19:20:09]	dasdas entered observer.
+[19:20:20]	dasdas exited observer at their location.
+[19:20:41]	dasdas entered observer.
+[19:20:41]	dasdas exited observer at their location.
+[19:20:42]	dasdas entered observer.
+[19:20:42]	dasdas exited observer at their location.
+[19:20:43]	dasdas entered observer.
+[19:20:43]	dasdas exited observer at their location.
+[19:20:43]	dasdas entered observer.
+[19:20:44]	dasdas exited observer at their location.
+[19:20:44]	dasdas entered observer.
+[19:20:45]	dasdas exited observer at their location.
+[19:20:45]	dasdas entered observer.
+[19:20:45]	dasdas exited observer at their location.
+[19:20:46]	dasdas entered observer.
+[19:20:47]	dasdas exited observer at their location.
+[19:20:51]	dasdas entered observer.
+[19:20:52]	dasdas exited observer at their location.
+[19:20:54]	dasdas has taken 14 damage from worldspawn.
+[19:20:55]	dasdas entered observer.
+[19:20:55]	dasdas exited observer at their location.
+[19:20:56]	dasdas entered observer.
+[19:20:56]	dasdas exited observer at their location.
+[19:20:57]	dasdas entered observer.
+[19:20:57]	dasdas exited observer at their location.
+[19:20:57]	dasdas entered observer.
+[19:20:58]	dasdas exited observer at their location.
+[19:20:58]	dasdas entered observer.
+[19:20:58]	dasdas exited observer at their location.
+[19:21:03]	dasdas entered observer.
+[19:21:04]	dasdas exited observer at their location.
+[19:21:04]	dasdas entered observer.
+[19:21:25]	dasdas exited observer at their location.
+[19:21:34]	dasdas entered observer.
+[19:21:36]	dasdas exited observer at their location.
+[19:21:37]	dasdas entered observer.
+[19:21:37]	dasdas exited observer at their location.
+[19:21:40]	dasdas entered observer.
+[19:21:41]	dasdas exited observer at their location.
+[19:21:51]	dasdas entered observer.
+[19:21:52]	dasdas exited observer at their location.

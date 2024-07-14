@@ -1,0 +1,23 @@
+VertexlitGeneric {
+    $basetexture "models/conceptbine_policeforce/grom_body_d"
+    $bumpmap "models/conceptbine_policeforce/grom_body_n"
+
+    $phong                  1
+    $phongboost             5
+//  $phongexponent          6
+    $phongfresnelranges     "[ 0.05 .5 1 ]"
+    $phongexponenttexture "models/conceptbine_policeforce/grom_body_s"
+    $phongalbedotint 1
+
+    $rimlight 1
+    $rimlightboost 0.2
+    $rimlightexponent 12
+
+    // This is some cateye material gimmick I kind of invented. Essentially, the white parts in the texture will be brighter in dark areas
+
+    $detail 				   "models/conceptbine_policeforce/grom_body_e"
+	$detailscale 			   1
+	$detailblendfactor 	   	   1 // This is supposed to be a normal (0 to 1) but it looks like it can stack up over 1...
+    // Maybe that parameter behaves like a float/integrer only in gmod?
+	$detailblendmode 		   1
+}

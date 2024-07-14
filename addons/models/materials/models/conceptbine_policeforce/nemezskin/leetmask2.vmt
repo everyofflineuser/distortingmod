@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	$BaseTexture 			   "models\conceptbine_policeforce\leetmask2_d"
+	$BumpMap 				   "models\conceptbine_policeforce\leetmask2_n"
+
+	$phong 					   1
+	$phongboost 			   0.4
+	$phongfresnelranges 	   "[ 0 0.85 1 ]"
+	$phongexponenttexture      "models\conceptbine_policeforce\leetmask2_s"
+
+	$rimlight                  1
+	$rimlightexponent          2
+	$rimlightboost             .2
+
+}

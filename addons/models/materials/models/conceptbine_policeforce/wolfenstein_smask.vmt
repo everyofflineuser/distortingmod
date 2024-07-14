@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+
+{
+	$BaseTexture 			   "models\conceptbine_policeforce/wolfenstein_smask_d" // yes i did properly edit the swatiska out, noice
+	$BumpMap 				   "models\conceptbine_policeforce/wolfenstein_smask_n"
+
+	$phong 					   1
+	$phongboost 			   .1
+	$phongfresnelranges 	   "[ 0 .2 .5 ]"
+	$phongexponenttexture      "models\conceptbine_policeforce/wolfenstein_smask_s"
+
+	$rimlight                  1
+	$rimlightexponent          6
+	$rimlightboost             .2
+
+
+
+	"$LightWarpTexture"         "models\conceptbine_policeforce/clothes_wrp2"		//< Change as needed
+	"$PhongWarpTexture"         "models\conceptbine_policeforce/ctm_specwarp" 		//< Change as needed
+
+}
