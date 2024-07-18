@@ -1,1 +1,1 @@
-[[]]
+[{"day":2.0,"defaultMoney":95.0,"genericFont":"Roboto Th","font":"Roboto Regular"}]

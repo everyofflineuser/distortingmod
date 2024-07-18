@@ -137,7 +137,7 @@ end
 
 function Schema:PlayerDeath(client, inflicter, attacker)
 	if (client:IsCombine()) then
-		local location = client:GetArea() or "unknown location"
+		local location = "неизвестная локация"
 
 		self:AddCombineDisplayMessage("@cLostBiosignal")
 		self:AddCombineDisplayMessage("@cLostBiosignalLocation", Color(255, 0, 0, 255), location)
@@ -185,10 +185,10 @@ function Schema:PlayerHurt(client, attacker, health, damage)
 	end
 
 	if (client:IsCombine() and (client.ixTraumaCooldown or 0) < CurTime()) then
-		local text = "External"
+		local text = "Внешнее ранение"
 
 		if (damage > 50) then
-			text = "Severe"
+			text = "Тяжелое ранение"
 		end
 
 		client:AddCombineDisplayMessage("@cTrauma", Color(255, 0, 0, 255), text)

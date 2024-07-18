@@ -10,14 +10,25 @@ FACTION.isGloballyRecognized = true
 FACTION.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
 
 function FACTION:OnCharacterCreated(client, character)
+	local id = Schema:ZeroNumber(math.random(00001, 99999), 5)
 	local inventory = character:GetInventory()
 
-	inventory:Add("pistol", 1)
+	character:SetData("cid", id)
+
+	inventory:Add("usp", 1)
 	inventory:Add("pistolammo", 2)
+	inventory:Add("cid", 1, {
+		name = character:GetName(),
+		id = id
+	})
+
+	character:SetName(character:GetName() .. ":" .. id)
 end
 
 function FACTION:GetDefaultName(client)
-	return "Г" .. ix.config.Get("city") ..".ПКЮ.03:" .. Schema:ZeroNumber(math.random(1, 99999), 5), true
+	return "C" 
+	.. ix.config.Get("city") 
+	..".ПКЮ.03", true
 end
 
 function FACTION:OnTransferred(character)
@@ -29,7 +40,7 @@ function FACTION:OnNameChanged(client, oldValue, value)
 	local character = client:GetCharacter()
 
 	if (!Schema:IsCombineRank(oldValue, "ПКЮ.03") and Schema:IsCombineRank(value, "ПКЮ.03")) then
-		character:JoinClass(CLASS_MPR)
+		character:JoinClass(CLASS_PO)
 	elseif (!Schema:IsCombineRank(oldValue, "КЮ.ОфЦ") and Schema:IsCombineRank(value, "КЮ.ОфЦ")) then
 		character:SetModel("models/policetrench.mdl")
 	elseif (!Schema:IsCombineRank(oldValue, "EpU") and Schema:IsCombineRank(value, "EpU")) then

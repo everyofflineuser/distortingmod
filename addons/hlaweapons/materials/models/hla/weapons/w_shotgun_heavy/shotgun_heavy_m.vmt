@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\hla\weapons\w_shotgun_heavy\shotgun_d"
+	"$bumpmap" 						"models\hla\weapons\w_shotgun_heavy\shotgun_n"
+	"$phongexponenttexture" 		"models\hla\weapons\w_shotgun_heavy\shotgun_e"
+
+	"$phongalbedotint"				"1"
+
+//Other	
+	"$color2"						"[.35 .35 .35]"
+	"$blendTintByBaseAlpha"			"1"
+	"$nocull"					"1"
+
+//Phong	
+	"$phong" 						"1"
+	"$phongboost"					"3.9934895"
+	"$phongfresnelranges"			"[0.87 0.9 1]"
+	"$phongexponent"			"5"
+
+	"$ambientocclusion"				"0.7"
+}
+
+//1/3 Diffuse Texture (don't forget about alpha mask in D)
+//VMT Setting by:
+//BlueFlytrap - PBR method 
+//Galaxyi -  Almost all numbers and command
+//MrShlapa - Small adjustments and visual overhaul

@@ -125,6 +125,7 @@ function PANEL:Init()
 	self.label:Dock(FILL)
 	self.label:SetExpensiveShadow(1, Color(0, 0, 60))
 	self.label:SetContentAlignment(5)
+	self.label:SetFont("ixNoticeFont")
 end
 
 function PANEL:Think()

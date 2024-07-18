@@ -252,4 +252,9 @@
 	"cuffs_allowbreakout"		"1"
 	"kupol_logging_level"		"0"
 	"sv_mysqloo_versioncheck"		"1"
+	"mmod_mags"		"1"
+	"mmod_ironsights"		"0"
+	"cl_ironsight_key"		"MOUSE3"
+	"cl_ironsight_toggle"		"1"
+	"cl_ironsight_blur"		"1"
 }

@@ -10,7 +10,7 @@ end
 
 SWEP.Category = "HL2 RP"
 SWEP.Author = "Chessnut"
-SWEP.Instructions = "Primary Fire: Stun.\nALT + Primary Fire: Toggle stun.\nSecondary Fire: Push/Knock."
+SWEP.Instructions = "Левая кнопка: Парализовать.\nALT + Левая Кнопка: Включить stunstick.\nПравая кнопка: Толкнуть/Ударить."
 SWEP.Purpose = "Hitting things and knocking on doors."
 SWEP.Drop = false
 

@@ -5,3 +5,4 @@
 
 resource.AddWorkshop( "1560465633" ) -- Map
 resource.AddWorkshop( "3041864795" ) -- metrocops models
+resource.AddWorkshop( "3291804810" ) -- Distorting.ru Weapons Content

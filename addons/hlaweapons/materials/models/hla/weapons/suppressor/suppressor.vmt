@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\hla\weapons\suppressor\suppressor_d"
+	"$bumpmap" 						"models\hla\weapons\suppressor\suppressor_n"
+	"$phongexponenttexture" 		"models\hla\weapons\suppressor\suppressor_phong"
+
+	"$phongalbedotint"				"1"
+	
+//Other
+	"$color2"						"[.85 .85 .85]"
+	"$translucent"					"0"
+	"$nocull"					"1"
+
+//Phong
+	"$phong" 						"1"
+	"$phongboost"					"5.986979"
+	"$phongfresnelranges"    "[0.222 0.581 1]"
+	"$phongexponent"			"10"
+
+	"$ambientocclusion"				"0.7"
+
+}

@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\hla\weapons\suppressor\suppressor_d"
+	"$bumpmap" 						"models\hla\weapons\suppressor\suppressor_n"
+	"$phongexponenttexture" 		"models\hla\weapons\suppressor\suppressor_e"
+
+	"$phongalbedotint"				"1"
+	
+//Other
+	"$color2"						"[.25 .25 .25]"
+	"$blendTintByBaseAlpha"			"1"
+	"$nocull"					"1"
+
+//Phong	
+	"$phong" 						"1"
+	"$phongboost"					"25.9934895"
+	"$phongfresnelranges"    "[0.222 0.581 1]"
+	"$phongexponent"			"10"
+
+	"$ambientocclusion"				"0.7"
+
+//Detail
+	"$Detail" 				  	  "models\hla\weapons\suppressor\suppressor_emissive"
+	"$DetailScale" 			  	  "1"
+	"$DetailBlendFactor" 	  	  "1.5"
+	"$DetailBlendMode" 		   	  "5"
+
+}

@@ -1,7 +1,7 @@
 
 ix.currency.symbol = ""
-ix.currency.singular = "token"
-ix.currency.plural = "tokens"
+ix.currency.singular = "Токен"
+ix.currency.plural = "Токенов"
 
 ix.config.SetDefault("scoreboardRecognition", true)
 ix.config.SetDefault("music", "music/hl2_song19.mp3")
@@ -17,6 +17,6 @@ ix.config.Add("rationInterval", 300, "How long a person needs to wait in seconds
 	category = "economy"
 })
 
-ix.config.Add("city", 3, "Aga", nil, {
+ix.config.Add("city", "3", "Aga", nil, {
 	category = "appearance"
 })

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\hla\weapons\suppressor\suppressor_d"
+	
+	"$Detail" 				  	  "models\hla\weapons\suppressor\suppressor_emission"
+	"$DetailScale" 			  	  "1"
+	"$DetailBlendFactor" 	  	  "1"
+	"$DetailBlendMode" 		   	  "5"
+}
