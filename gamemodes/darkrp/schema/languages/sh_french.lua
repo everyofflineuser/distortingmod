@@ -2,7 +2,7 @@
 NAME = "Français"
 
 LANGUAGE = {
-	schemaName = "Half-Life 2 Roleplay",
+	schemaName = "Distorting.ru HL2RP",
 	tying = "Cette personne est en train d'être attachée...",
 	unTying = "Cette personne est en train d'être détachée...",
 	isTied = "Attaché",

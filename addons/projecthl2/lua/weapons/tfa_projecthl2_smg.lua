@@ -11,12 +11,13 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true --Can an adminstrator spawn this?  Does not tie into your admin mod necessarily, unless its coded to allow for GMod's default ranks somewhere in its code.  Evolve and ULX should work, but try to use weapon restriction rather than these.
 SWEP.DrawCrosshair			= true		-- Draw the crosshair?
 SWEP.DrawCrosshairIS = false --Draw the crosshair in ironsights?
-SWEP.PrintName				= "Project HL2 SMG"		-- Weapon name (Shown on HUD)
+SWEP.PrintName				= "SMG1"		-- Weapon name (Shown on HUD)
 SWEP.Slot				= 2			-- Slot in the weapon selection menu.  Subtract 1, as this starts at 0.
 SWEP.SlotPos				= 2.59 * 10		-- Position in the slot
 SWEP.AutoSwitchTo			= true		-- Auto switch to if we pick it up
 SWEP.AutoSwitchFrom			= true		-- Auto switch from if you pick up a better weapon
 SWEP.Weight				= 2.59 * 10			-- This controls how "good" the weapon is for autopickup.
+SWEP.Instructions = "Задержите R: Убрать/Поставить оружие на пред."
 
 --[[WEAPON HANDLING]]--
 

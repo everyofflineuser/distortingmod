@@ -147,13 +147,13 @@ function PANEL:Init()
 	local infoLabel = self:Add("DLabel")
 	infoLabel:SetTextColor(Color(255, 255, 255, 25))
 	infoLabel:SetFont("ixMenuMiniFont")
-	infoLabel:SetText(L("helix") .. " " .. GAMEMODE.Version)
+	infoLabel:SetText(L("helix")/* .. " " .. GAMEMODE.Version*/)
 	infoLabel:SizeToContents()
 	infoLabel:SetPos(ScrW() - infoLabel:GetWide() - 4, ScrH() - infoLabel:GetTall() - 4)
 
 	local logoPanel = self:Add("Panel")
 	logoPanel:SetSize(ScrW(), ScrH() * 0.25)
-	logoPanel:SetPos(0, ScrH() * 0.25)
+	logoPanel:SetPos(0, ScrH() * 0.05)
 	logoPanel.Paint = function(panel, width, height)
 		local matrix = self.currentMatrix
 
@@ -214,7 +214,7 @@ function PANEL:Init()
 		titleLabel:SetPaintedManually(true)
 		newHeight = newHeight + titleLabel:GetTall()
 
-		if (subtitle) then
+		/*if (subtitle) then
 			local subtitleLabel = logoPanel:Add("DLabel")
 			subtitleLabel:SetTextColor(color_white)
 			subtitleLabel:SetFont("ixSubTitleFont")
@@ -224,7 +224,7 @@ function PANEL:Init()
 			subtitleLabel:MoveBelow(titleLabel)
 			subtitleLabel:SetPaintedManually(true)
 			newHeight = newHeight + subtitleLabel:GetTall()
-		end
+		end*/
 
 		logoPanel:SetTall(newHeight)
 	end

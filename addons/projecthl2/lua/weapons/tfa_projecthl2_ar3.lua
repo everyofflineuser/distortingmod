@@ -8,11 +8,12 @@ SWEP.AdminSpawnable = true --Can an adminstrator spawn this?  Does not tie into 
 SWEP.UseHands = true --Use gmod c_arms system
 SWEP.FiresUnderwater = true
 
-SWEP.PrintName = "Project HL2 Emplacement Gun"
+SWEP.PrintName = "Ar3"
 SWEP.DrawCrosshair			= true		-- Draw the crosshair?
 SWEP.DrawCrosshairIS = false --Draw the crosshair in ironsights?
 
 SWEP.ViewModel			= "models/weapons/c_IIopnar3.mdl" --Viewmodel path
+SWEP.Instructions = "Задержите R: Убрать/Поставить оружие на пред."
 SWEP.ViewModelFOV = 60
 
 SWEP.WorldModel			= "models/weapons/w_IIopnar3.mdl" --Viewmodel path

@@ -1,0 +1,627 @@
+[01:32:15]	everyofflineuser has connected.
+[01:32:22]	CT 6996 Awkt has connected.
+[01:32:28]	everyofflineuser loaded the character 'C3.КЮ.ОфЦ:94002'
+[01:32:35]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#31)
+[01:32:35]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #31.
+[01:32:36]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#23)
+[01:32:36]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #23.
+[01:32:37]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#30)
+[01:32:37]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #30.
+[01:32:37]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#29)
+[01:32:37]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #29.
+[01:32:38]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#20)
+[01:32:38]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #20.
+[01:32:39]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#21)
+[01:32:39]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #21.
+[01:32:39]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#16)
+[01:32:39]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #16.
+[01:32:39]	CT 6996 Awkt loaded the character 'AWKT'
+[01:32:41]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#15)
+[01:32:41]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #15.
+[01:32:42]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#12)
+[01:32:42]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #12.
+[01:32:43]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#11)
+[01:32:43]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #11.
+[01:32:45]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#18)
+[01:32:45]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #18.
+[01:32:46]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#19)
+[01:32:46]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #19.
+[01:32:46]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#26)
+[01:32:46]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #26.
+[01:32:48]	C3.КЮ.ОфЦ:94002 ran 'drop' on item '9mm Pistol Bullets' (#25)
+[01:32:48]	C3.КЮ.ОфЦ:94002 has lost a '9mm Pistol Bullets' #25.
+[01:32:49]	C3.КЮ.ОфЦ:94002 ran 'drop' on item 'SMG Bullets' (#24)
+[01:32:49]	C3.КЮ.ОфЦ:94002 has lost a 'SMG Bullets' #24.
+[01:32:55]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:32:56]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:32:56]	AWKT ran 'take' on item 'SMG Bullets' (#19)
+[01:32:56]	AWKT has gained a 'SMG Bullets' #19.
+[01:32:57]	AWKT ran 'take' on item 'SMG Bullets' (#16)
+[01:32:57]	AWKT has gained a 'SMG Bullets' #16.
+[01:32:58]	AWKT ran 'use' on item 'SMG Bullets' (#15)
+[01:33:00]	AWKT ran 'take' on item 'SMG Bullets' (#30)
+[01:33:00]	AWKT has gained a 'SMG Bullets' #30.
+[01:33:02]	C3.КЮ.ОфЦ:94002 ran 'use' on item 'SMG Bullets' (#24)
+[01:33:03]	C3.КЮ.ОфЦ:94002 ran 'use' on item '9mm Pistol Bullets' (#12)
+[01:33:04]	AWKT ran 'use' on item '9mm Pistol Bullets' (#11)
+[01:33:05]	AWKT ran 'use' on item '9mm Pistol Bullets' (#26)
+[01:33:06]	C3.КЮ.ОфЦ:94002 ran 'use' on item '9mm Pistol Bullets' (#25)
+[01:33:06]	AWKT ran 'use' on item 'SMG Bullets' (#23)
+[01:33:06]	C3.КЮ.ОфЦ:94002 ran 'use' on item 'SMG Bullets' (#29)
+[01:33:07]	AWKT ran 'use' on item '9mm Pistol Bullets' (#20)
+[01:33:08]	C3.КЮ.ОфЦ:94002 ran 'use' on item '9mm Pistol Bullets' (#21)
+[01:33:09]	AWKT ran 'use' on item 'SMG Bullets' (#18)
+[01:33:11]	C3.КЮ.ОфЦ:94002 ran 'use' on item '9mm Pistol Bullets' (#31)
+[01:33:34]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:33:34]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:33:36]	C3.КЮ.ОфЦ:94002 has taken 64 damage from worldspawn.
+[01:33:36]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:33:37]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:33:40]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:33:41]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:33:42]	C3.КЮ.ОфЦ:94002 has taken 64 damage from worldspawn.
+[01:33:42]	worldspawn has killed C3.КЮ.ОфЦ:94002.
+[01:33:49]	AWKT entered observer.
+[01:33:52]	C3.КЮ.ОфЦ:94002 has gained a 'SMG Bullets' #36.
+[01:33:52]	C3.КЮ.ОфЦ:94002 has gained a 'SMG Bullets' #37.
+[01:33:52]	C3.КЮ.ОфЦ:94002 has gained a '9mm Pistol Bullets' #38.
+[01:33:52]	C3.КЮ.ОфЦ:94002 has gained a '9mm Pistol Bullets' #39.
+[01:33:55]	AWKT exited observer at their location.
+[01:34:08]	C3.КЮ.ОфЦ:94002 has spawned a 'Weapon [504][rust_smg]'.
+[01:34:15]	AWKT has taken 59 damage from C3.КЮ.ОфЦ:94002.
+[01:34:15]	AWKT has taken 58 damage from C3.КЮ.ОфЦ:94002.
+[01:34:15]	C3.КЮ.ОфЦ:94002 has killed AWKT with rust_smg.
+[01:34:22]	AWKT used command '/CharGetUp'.
+[01:34:22]	AWKT used command '/CharGetUp'.
+[01:34:23]	AWKT used command '/CharGetUp'.
+[01:34:24]	AWKT used command '/CharGetUp'.
+[01:34:25]	AWKT used command '/CharGetUp'.
+[01:34:34]	C3.КЮ.ОфЦ:94002 used command '/CharGiveItem C3 pomp 1'.
+[01:34:34]	C3.КЮ.ОфЦ:94002 has gained a 'Pomp' #40.
+[01:34:48]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:34:48]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:34:50]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:34:51]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:34:57]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:34:58]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:34:58]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:34:58]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:34:58]	AWKT entered observer.
+[01:34:59]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:35:00]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:35:01]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:35:01]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:35:02]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:35:17]	C3.КЮ.ОфЦ:94002 has killed C3.КЮ.ОфЦ:94002.
+[01:35:29]	AWKT exited observer at their location.
+[01:35:30]	AWKT entered observer.
+[01:35:31]	AWKT exited observer at their location.
+[01:35:33]	C3.КЮ.ОфЦ:94002 has spawned a 'Weapon [499][rust_python]'.
+[01:35:45]	C3.КЮ.ОфЦ:94002 has spawned a 'Entity [499][ix_vendor]'.
+[01:35:46]	C3.КЮ.ОфЦ:94002 used the 'John Doe' vendor.
+[01:35:49]	AWKT used the 'John Doe' vendor.
+[01:36:00]	C3.КЮ.ОфЦ:94002 used command '/Event Пидоры'.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:36:04]	AWKT has killed C3.КЮ.ОфЦ:94002 with rust_sawnoffshotgun.
+[01:36:13]	AWKT entered observer.
+[01:36:23]	AWKT exited observer at their location.
+[01:36:25]	AWKT used the 'John Doe' vendor.
+[01:36:39]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:39]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:39]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:39]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:39]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:39]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:40]	C3.КЮ.ОфЦ:94002 has taken 31 damage from AWKT.
+[01:36:40]	AWKT has killed C3.КЮ.ОфЦ:94002 with rust_sawnoffshotgun.
+[01:36:41]	AWKT entered observer.
+[01:36:46]	AWKT exited observer at their location.
+[01:36:53]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:36:59]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:37:00]	AWKT has spawned a 'Entity [502][ix_vendor]'.
+[01:37:00]	C3.КЮ.ОфЦ:94002 has spawned a 'Entity [507][ix_vendor]'.
+[01:37:02]	C3.КЮ.ОфЦ:94002 used the 'John Doe' vendor.
+[01:37:14]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:37:15]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:37:17]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:37:19]	AWKT entered observer.
+[01:37:19]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:37:28]	C3.КЮ.ОфЦ:94002 has gained 10 Токенов.
+[01:37:42]	AWKT exited observer at their location.
+[01:37:44]	AWKT entered observer.
+[01:37:45]	AWKT exited observer at their location.
+[01:38:09]	AWKT entered observer.
+[01:38:11]	AWKT exited observer at their location.
+[01:38:23]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:23]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:25]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:28]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:29]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:30]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:31]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:32]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:33]	AWKT entered observer.
+[01:38:33]	C3.КЮ.ОфЦ:94002 has taken 31 damage from worldspawn.
+[01:38:33]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:33]	AWKT exited observer at their location.
+[01:38:34]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:34]	AWKT entered observer.
+[01:38:35]	AWKT exited observer at their location.
+[01:38:35]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:36]	AWKT entered observer.
+[01:38:36]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:36]	AWKT exited observer at their location.
+[01:38:37]	AWKT entered observer.
+[01:38:38]	AWKT exited observer at their location.
+[01:38:39]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:39]	AWKT entered observer.
+[01:38:39]	AWKT exited observer at their location.
+[01:38:40]	AWKT entered observer.
+[01:38:40]	AWKT exited observer at their location.
+[01:38:41]	AWKT entered observer.
+[01:38:41]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:42]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:42]	AWKT exited observer at their location.
+[01:38:43]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:43]	AWKT entered observer.
+[01:38:44]	AWKT exited observer at their location.
+[01:38:44]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:44]	AWKT entered observer.
+[01:38:45]	AWKT exited observer at their location.
+[01:38:46]	AWKT entered observer.
+[01:38:46]	AWKT exited observer at their location.
+[01:38:49]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:49]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:49]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:38:50]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:38:50]	AWKT entered observer.
+[01:38:52]	AWKT exited observer at their location.
+[01:38:53]	AWKT entered observer.
+[01:38:53]	AWKT exited observer at their location.
+[01:38:54]	AWKT entered observer.
+[01:38:55]	AWKT exited observer at their location.
+[01:38:58]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:39:03]	AWKT entered observer.
+[01:39:11]	AWKT exited observer at their location.
+[01:39:35]	AWKT has spawned a 'Entity [499][tfa_ammo_buckshot]'.
+[01:39:36]	AWKT has spawned a 'Entity [505][tfa_ammo_buckshot]'.
+[01:39:37]	AWKT has spawned a 'Entity [499][tfa_ammo_buckshot]'.
+[01:40:17]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:40:17]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:40:17]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:40:17]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:40:17]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:40:17]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[01:40:17]	AWKT has killed C3.КЮ.ОфЦ:94002 with rust_sawnoffshotgun.
+[01:40:45]	AWKT set rationTokens to '5'.
+[01:40:52]	AWKT set rationInterval to '500'.
+[01:40:55]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:00]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:41:02]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:03]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:41:04]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:04]	AWKT set rationInterval to '300'.
+[01:41:05]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:41:07]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:09]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:41:10]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:11]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:41:13]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:15]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[01:41:25]	AWKT entered observer.
+[01:41:27]	C3.КЮ.ОфЦ:94002 entered observer.
+[01:41:27]	AWKT exited observer at their location.
+[01:41:28]	AWKT entered observer.
+[01:41:33]	C3.КЮ.ОфЦ:94002 has killed C3.КЮ.ОфЦ:94002.
+[01:41:35]	AWKT exited observer at their location.
+[01:41:42]	AWKT entered observer.
+[01:42:28]	C3.КЮ.ОфЦ:94002 has gained 10 Токенов.
+[01:51:17]	C3.КЮ.ОфЦ:94002 has gained 10 Токенов.
+[02:01:48]	C3.КЮ.ОфЦ:94002 has gained 10 Токенов.
+[02:04:34]	AWKT exited observer at their location.
+[02:04:34]	AWKT entered observer.
+[02:04:46]	AWKT exited observer at their location.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 4 damage from AWKT.
+[02:04:47]	C3.КЮ.ОфЦ:94002 has taken 29 damage from AWKT.
+[02:04:50]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:50]	C3.КЮ.ОфЦ:94002 has taken 4 damage from AWKT.
+[02:04:50]	C3.КЮ.ОфЦ:94002 has taken 4 damage from AWKT.
+[02:04:50]	C3.КЮ.ОфЦ:94002 has taken 14 damage from AWKT.
+[02:04:50]	AWKT has killed C3.КЮ.ОфЦ:94002 with rust_sawnoffshotgun.
+[02:04:52]	AWKT entered observer.
+[02:05:13]	AWKT exited observer at their location.
+[02:06:03]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	C3.ЮОН.МдК:94002 has taken 31 damage from AWKT.
+[02:06:10]	AWKT has killed C3.ЮОН.МдК:94002 with rust_sawnoffshotgun.
+[02:06:12]	C3.ЮОН.МдК:94002 used command '/CharGetUp'.
+[02:06:26]	C3.ЮОН.МдК:94002 entered observer.
+[02:06:27]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	C3.ЮОН.МдК:94002 has taken 15 damage from AWKT.
+[02:08:04]	AWKT has killed C3.ЮОН.МдК:94002 with rust_sawnoffshotgun.
+[02:08:07]	AWKT entered observer.
+[02:08:18]	AWKT exited observer at their location.
+[02:08:20]	AWKT entered observer.
+[02:08:21]	AWKT exited observer at their location.
+[02:09:20]	AWKT has spawned a 'NPC [501][npc_monk]'.
+[02:10:45]	AWKT entered observer.
+[02:10:54]	AWKT exited observer at their location.
+[02:11:50]	C3.ЮОН.МдК:94002 entered observer.
+[02:11:50]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:12:32]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:12:34]	C3.ЮОН.МдК:94002 entered observer.
+[02:12:34]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:12:45]	AWKT entered observer.
+[02:12:50]	AWKT exited observer at their location.
+[02:12:50]	C3.ЮОН.МдК:94002 entered observer.
+[02:12:50]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:12:51]	C3.ЮОН.МдК:94002 has taken 238 damage from worldspawn.
+[02:12:51]	worldspawn has killed C3.ЮОН.МдК:94002.
+[02:12:58]	C3.ЮОН.МдК:94002 used command '/CharGetUp'.
+[02:16:18]	CT 6996 Awkt has connected.
+[02:16:28]	CT 6996 Awkt loaded the character 'AWKT'
+[02:16:38]	everyofflineuser has connected.
+[02:16:47]	everyofflineuser loaded the character 'C3.ЮОН.МдК:94002'
+[02:16:52]	C3.ЮОН.МдК:94002 entered observer.
+[02:16:52]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:16:52]	C3.ЮОН.МдК:94002 has taken 229 damage from worldspawn.
+[02:16:52]	worldspawn has killed C3.ЮОН.МдК:94002.
+[02:17:39]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:17:46]	C3.ЮОН.МдК:94002 entered observer.
+[02:17:47]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:17:47]	C3.ЮОН.МдК:94002 has taken 225 damage from worldspawn.
+[02:17:47]	worldspawn has killed C3.ЮОН.МдК:94002.
+[02:18:15]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:18:22]	AWKT has killed C3.ЮОН.ИеР:94002 with rust_sawnoffshotgun.
+[02:18:32]	C3.ЮОН.ИеР:94002 used command '/CharGetUp'.
+[02:18:33]	AWKT entered observer.
+[02:18:35]	AWKT exited observer at their location.
+[02:19:19]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:19:23]	C3.ЮОН.МдК:94002 entered observer.
+[02:19:24]	C3.ЮОН.МдК:94002 exited observer at their location.
+[02:19:24]	C3.ЮОН.МдК:94002 has taken 219 damage from worldspawn.
+[02:19:24]	worldspawn has killed C3.ЮОН.МдК:94002.
+[02:19:29]	AWKT entered observer.
+[02:19:34]	AWKT exited observer at their location.
+[02:19:35]	AWKT entered observer.
+[02:19:35]	AWKT exited observer at their location.
+[02:20:00]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:20:29]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:20:32]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	C3.ЮОН.ИеР:94002 has taken 29 damage from AWKT.
+[02:20:42]	AWKT has killed C3.ЮОН.ИеР:94002 with rust_sawnoffshotgun.
+[02:21:12]	C3.ЮОН.ИеР:94002 used command '/CharEditBodygroup'.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	C3.ЮОН.ИеР:94002 has taken 31 damage from AWKT.
+[02:22:08]	AWKT has killed C3.ЮОН.ИеР:94002 with rust_sawnoffshotgun.
+[02:22:46]	C3.ЮОН.ИеР:94002 entered observer.
+[02:22:47]	C3.ЮОН.ИеР:94002 exited observer at their location.
+[02:22:47]	C3.ЮОН.ИеР:94002 has taken 222 damage from worldspawn.
+[02:22:47]	worldspawn has killed C3.ЮОН.ИеР:94002.
+[02:22:49]	AWKT entered observer.
+[02:23:00]	AWKT exited observer at their location.
+[02:24:04]	AWKT has spawned a 'Entity [499][tfa_ammo_smg]'.
+[02:24:13]	AWKT has spawned a 'Entity [499][tfa_ammo_ar2]'.
+[02:24:18]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:24:23]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:24:41]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:24:42]	C3.ЮОН.ИеР:94002 has taken 77 damage from AWKT.
+[02:24:43]	C3.ЮОН.ИеР:94002 has taken 73 damage from AWKT.
+[02:24:46]	C3.ЮОН.ИеР:94002 entered observer.
+[02:24:48]	C3.ЮОН.ИеР:94002 exited observer at their location.
+[02:24:50]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:24:51]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:24:58]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:25:06]	C3.ЮОН.ИеР:94002 entered observer.
+[02:25:07]	C3.ЮОН.ИеР:94002 exited observer at their location.
+[02:25:07]	C3.ЮОН.ИеР:94002 has taken 225 damage from worldspawn.
+[02:25:07]	worldspawn has killed C3.ЮОН.ИеР:94002.
+[02:25:13]	AWKT entered observer.
+[02:25:14]	AWKT exited observer at their location.
+[02:25:25]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:25:26]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:25:33]	C3.ЮОН.ИеР:94002 has taken 75 damage from AWKT.
+[02:26:57]	everyofflineuser has connected.
+[02:27:04]	everyofflineuser loaded the character 'C3.ЮОН.ИеР:94002'
+[02:27:23]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:27:39]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:27:44]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:27:46]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:28:08]	C3.ЮОН.ИеР:94002 used command '/CharEditBodygroup'.
+[02:31:00]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:31:01]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:31:11]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:32:02]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:33:22]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:33:47]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:33:51]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:33:52]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:34:51]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:35:20]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:35:28]	C3.ЮОН.ИеР:94002 entered observer.
+[02:35:28]	C3.ЮОН.ИеР:94002 exited observer at their location.
+[02:40:16]	C3.ЮОН.ИеР:94002 has gained 10 Токенов.
+[02:41:00]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:41:00]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:41:20]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:41:21]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:42:10]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:42:11]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:43:08]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:43:37]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:44:37]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:45:54]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:46:01]	C3.ЮОН.ИеР:94002 entered observer.
+[02:46:01]	C3.ЮОН.ИеР:94002 exited observer at their location.
+[02:46:52]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:47:23]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:47:40]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:48:03]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:48:43]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:49:09]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:49:26]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:49:56]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:50:08]	C3.ЮОН.ИеР:94002 used command '/CharEditBodygroup'.
+[02:50:14]	C3.ЮОН.ИеР:94002 has changed C3.ЮОН.ИеР:94002's bodygroups.
+[02:50:22]	C3.ЮОН.ИеР:94002 has changed C3.ЮОН.ИеР:94002's bodygroups.
+[02:52:25]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:52:44]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:53:28]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:55:34]	C3.ЮОН.ИеР:94002 used command '/CharSetClass C3 ЮОН.ИеР'.
+[02:57:23]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:58:41]	C3.ЮОН.МдК:94002 used command '/CharEditBodygroup'.
+[02:59:08]	C3.ЮОН.МдК:94002 used command '/CharEditBodygroup'.
+[02:59:11]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:59:33]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[02:59:46]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[03:01:31]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[03:01:58]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[03:02:16]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[03:02:31]	C3.ЮОН.МдК:94002 used command '/CharSetClass C3 ЮОН.МдК'.
+[03:03:32]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:04:28]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:04:47]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:05:00]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:05:55]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:06:22]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:06:49]	C3.ЮОН.ШрК:94002 used command '/CharSetClass C3 ЮОН.ШрК'.
+[03:08:19]	C3.ПКЮ.03:94002 used command '/CharSetClass C3 ПКЮ.03'.
+[03:08:46]	C3.ПКЮ.03:94002 used command '/CharSetClass C3 ПКЮ.03'.
+[03:10:26]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:10:56]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:11:57]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:12:12]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:12:35]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:12:51]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:13:18]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:13:49]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:14:12]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:16:30]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:16:49]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:16:58]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:18:37]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:18:50]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:19:15]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:19:43]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:19:58]	C3.КЮ.Дисп:94002 used command '/CharSetClass C3 КЮ.Дисп'.
+[03:21:20]	C3.КЮ.КС:94002 used command '/CharSetClass C3 КЮ.КС'.
+[03:21:47]	C3.КЮ.КС:94002 entered observer.
+[03:21:47]	C3.КЮ.КС:94002 exited observer at their location.
+[03:21:48]	C3.КЮ.КС:94002 entered observer.
+[03:21:48]	C3.КЮ.КС:94002 exited observer at their location.
+[03:21:49]	C3.КЮ.КС:94002 entered observer.
+[03:21:50]	C3.КЮ.КС:94002 exited observer at their location.
+[03:21:52]	C3.КЮ.КС:94002 entered observer.
+[03:21:52]	C3.КЮ.КС:94002 exited observer at their location.
+[03:21:54]	C3.КЮ.КС:94002 entered observer.
+[03:21:56]	C3.КЮ.КС:94002 exited observer at their location.
+[03:21:57]	C3.КЮ.КС:94002 entered observer.
+[03:21:58]	C3.КЮ.КС:94002 exited observer at their location.
+[03:21:58]	C3.КЮ.КС:94002 entered observer.
+[03:21:59]	C3.КЮ.КС:94002 exited observer at their location.
+[03:26:35]	everyofflineuser has connected.
+[03:26:51]	everyofflineuser loaded the character 'C3.КЮ.КС:94002'
+[03:27:10]	C3.КЮ.КС:94002 entered observer.
+[03:30:58]	CT 6996 Awkt has connected.
+[03:31:10]	CT 6996 Awkt loaded the character 'AWKT'
+[03:31:48]	C3.КЮ.КС:94002 exited observer at their location.
+[03:31:51]	C3.КЮ.КС:94002 has taken 74 damage from AWKT.
+[03:31:52]	C3.КЮ.КС:94002 has taken 38 damage from AWKT.
+[03:31:54]	C3.КЮ.КС:94002 has taken 37 damage from AWKT.
+[03:31:56]	C3.КЮ.КС:94002 entered observer.
+[03:31:58]	C3.КЮ.КС:94002 exited observer at their location.
+[03:31:58]	AWKT entered observer.
+[03:32:00]	C3.КЮ.КС:94002 entered observer.
+[03:32:02]	C3.КЮ.КС:94002 exited observer at their location.
+[03:32:03]	C3.КЮ.КС:94002 entered observer.
+[03:32:03]	AWKT exited observer at their location.
+[03:32:04]	C3.КЮ.КС:94002 exited observer at their location.
+[03:32:04]	C3.КЮ.КС:94002 entered observer.
+[03:32:05]	C3.КЮ.КС:94002 exited observer at their location.
+[03:32:08]	C3.КЮ.КС:94002 has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[03:32:10]	C3.КЮ.КС:94002 has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[03:32:10]	C3.КЮ.КС:94002 has taken 76 damage from AWKT.
+[03:32:11]	AWKT has killed C3.КЮ.КС:94002 with rust_sar.
+[03:32:11]	AWKT has taken 69 damage from AWKT.
+[03:32:16]	C3.КЮ.КС:94002 used command '/CharGetUp'.
+[03:32:50]	AWKT entered observer.
+[03:32:52]	C3.КЮ.КС:94002 entered observer.
+[03:32:53]	C3.КЮ.КС:94002 exited observer at their location.
+[03:32:54]	C3.КЮ.КС:94002 entered observer.
+[03:32:54]	AWKT exited observer at their location.
+[03:32:54]	C3.КЮ.КС:94002 exited observer at their location.
+[03:32:55]	AWKT entered observer.
+[03:32:56]	C3.КЮ.КС:94002 entered observer.
+[03:32:57]	AWKT exited observer at their location.
+[03:32:58]	AWKT entered observer.
+[03:32:58]	C3.КЮ.КС:94002 exited observer at their location.
+[03:32:59]	AWKT exited observer at their location.
+[03:32:59]	C3.КЮ.КС:94002 entered observer.
+[03:32:59]	C3.КЮ.КС:94002 exited observer at their location.
+[03:33:00]	C3.КЮ.КС:94002 entered observer.
+[03:33:00]	C3.КЮ.КС:94002 exited observer at their location.
+[03:33:01]	C3.КЮ.КС:94002 entered observer.
+[03:33:01]	AWKT entered observer.
+[03:33:02]	AWKT exited observer at their location.
+[03:33:03]	C3.КЮ.КС:94002 exited observer at their location.
+[03:33:10]	AWKT entered observer.
+[03:33:10]	AWKT exited observer at their location.
+[03:33:11]	AWKT entered observer.
+[03:33:14]	AWKT exited observer at their location.
+[03:33:20]	AWKT entered observer.
+[03:33:21]	AWKT exited observer at their location.
+[03:33:26]	AWKT entered observer.
+[03:33:26]	AWKT exited observer at their location.
+[03:33:29]	AWKT entered observer.
+[03:33:30]	AWKT exited observer at their location.
+[03:33:32]	C3.КЮ.КС:94002 used command '/BecomeClass КЮ.ОфЦ'.
+[03:33:33]	AWKT entered observer.
+[03:33:34]	AWKT exited observer at their location.
+[03:33:45]	C3.КЮ.КС:94002 has taken 38 damage from AWKT.
+[03:33:45]	C3.КЮ.КС:94002 has taken 37 damage from AWKT.
+[03:33:46]	C3.КЮ.КС:94002 has taken 38 damage from AWKT.
+[03:33:46]	AWKT has killed C3.КЮ.КС:94002 with rust_sar.
+[03:34:01]	AWKT entered observer.
+[03:34:04]	AWKT exited observer at their location.
+[03:34:07]	C3.КЮ.ОфЦ:94002 used command '/CharSetClass C3 КЮ.ОфЦ'.
+[03:34:15]	everyofflineuser (STEAM_0:0:71673197) has disconnected.
+[03:34:52]	everyofflineuser has connected.
+[03:35:00]	everyofflineuser loaded the character 'C3.КЮ.ОфЦ:94002'
+[03:37:01]	everyofflineuser (STEAM_0:0:71673197) has disconnected.
+[03:37:07]	AWKT entered observer.
+[03:37:07]	AWKT exited observer at their location.
+[03:37:07]	AWKT entered observer.
+[03:37:08]	AWKT exited observer at their location.
+[03:37:09]	AWKT entered observer.
+[03:37:10]	AWKT exited observer at their location.
+[03:37:11]	AWKT entered observer.
+[03:37:12]	AWKT exited observer at their location.
+[03:37:14]	AWKT entered observer.
+[03:37:15]	AWKT exited observer at their location.
+[03:37:16]	AWKT entered observer.
+[03:37:16]	AWKT exited observer at their location.
+[03:37:17]	AWKT entered observer.
+[03:37:18]	AWKT exited observer at their location.
+[03:37:21]	AWKT entered observer.
+[03:37:21]	AWKT exited observer at their location.
+[03:37:22]	AWKT entered observer.
+[03:37:23]	AWKT exited observer at their location.
+[03:37:23]	AWKT entered observer.
+[03:37:24]	AWKT exited observer at their location.
+[03:37:25]	AWKT entered observer.
+[03:37:25]	AWKT exited observer at their location.
+[03:37:28]	AWKT entered observer.
+[03:37:28]	AWKT exited observer at their location.
+[03:37:29]	AWKT entered observer.
+[03:37:30]	AWKT exited observer at their location.
+[03:37:30]	AWKT entered observer.
+[03:37:31]	AWKT exited observer at their location.
+[03:37:31]	AWKT entered observer.
+[03:37:32]	AWKT exited observer at their location.
+[03:37:33]	AWKT entered observer.
+[03:37:33]	AWKT exited observer at their location.
+[03:37:39]	everyofflineuser has connected.
+[03:37:52]	everyofflineuser loaded the character 'C3.КЮ.ОфЦ:94002'
+[03:38:07]	AWKT entered observer.
+[03:38:07]	AWKT exited observer at their location.
+[03:38:34]	AWKT entered observer.
+[03:38:36]	AWKT exited observer at their location.
+[03:39:05]	AWKT entered observer.
+[03:39:07]	AWKT exited observer at their location.
+[03:39:16]	AWKT entered observer.
+[03:39:19]	AWKT exited observer at their location.
+[03:39:38]	AWKT has taken 83 damage from C3.КЮ.ОфЦ:94002.
+[03:39:38]	C3.КЮ.ОфЦ:94002 has killed AWKT with tfa_ocipr.
+[03:39:40]	AWKT used command '/CharGetUp'.
+[03:39:40]	AWKT used command '/CharGetUp'.
+[03:39:41]	AWKT used command '/CharGetUp'.
+[03:39:42]	AWKT used command '/CharGetUp'.
+[03:39:43]	AWKT used command '/CharGetUp'.
+[03:39:43]	AWKT used command '/CharGetUp'.
+[03:39:44]	AWKT used command '/CharGetUp'.
+[03:39:45]	AWKT used command '/CharGetUp'.
+[03:39:46]	AWKT used command '/CharGetUp'.
+[03:39:47]	AWKT used command '/CharGetUp'.
+[03:39:47]	AWKT used command '/CharGetUp'.
+[03:39:48]	AWKT used command '/CharGetUp'.
+[03:39:55]	C3.КЮ.ОфЦ:94002 entered observer.
+[03:39:55]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[03:39:57]	AWKT has taken 42 damage from C3.КЮ.ОфЦ:94002.
+[03:39:57]	AWKT has taken 42 damage from C3.КЮ.ОфЦ:94002.
+[03:39:57]	AWKT has taken 11 damage from C3.КЮ.ОфЦ:94002.
+[03:39:58]	AWKT has taken 11 damage from C3.КЮ.ОфЦ:94002.
+[03:39:58]	C3.КЮ.ОфЦ:94002 has killed AWKT with tfa_ocipr.
+[03:39:59]	AWKT used command '/CharGetUp'.
+[03:39:59]	AWKT used command '/CharGetUp'.
+[03:40:01]	AWKT used command '/CharGetUp'.
+[03:40:02]	everyofflineuser (STEAM_0:0:71673197) has disconnected.
+[03:40:02]	AWKT used command '/CharGetUp'.
+[03:40:07]	AWKT used command '/CharGetUp'.
+[03:40:08]	AWKT used command '/CharGetUp'.
+[03:40:22]	AWKT has spawned a 'Entity [487][tfa_ammo_ar2]'.
+[03:40:23]	AWKT has spawned a 'Entity [504][tfa_ammo_ar2]'.
+[03:40:34]	AWKT entered observer.
+[03:40:37]	everyofflineuser has connected.
+[03:40:50]	everyofflineuser loaded the character 'C3.КЮ.ОфЦ:94002'
+[03:40:55]	C3.КЮ.ОфЦ:94002 has taken 76 damage from AWKT.
+[03:40:55]	C3.КЮ.ОфЦ:94002 entered observer.
+[03:40:59]	C3.КЮ.ОфЦ:94002 exited observer at their location.
+[03:40:59]	C3.КЮ.ОфЦ:94002 entered observer.
+[03:41:03]	AWKT exited observer at their location.
+[03:41:10]	AWKT entered observer.
+[03:41:11]	AWKT exited observer at their location.
+[03:41:12]	AWKT entered observer.
+[03:41:14]	AWKT exited observer at their location.
+[03:45:50]	everyofflineuser created the character 'C3.ПКЮ.03'
+[03:45:50]	C3.ПКЮ.03:91015 has gained a 'Citizen ID' #41.
+[03:45:58]	everyofflineuser loaded the character 'C3.ПКЮ.03:91015'

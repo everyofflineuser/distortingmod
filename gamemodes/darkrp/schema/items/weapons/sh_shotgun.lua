@@ -1,9 +1,8 @@
 ITEM.name = "Shotgun"
 ITEM.description = "A powerful pump-action shotgun."
 ITEM.model = "models/weapons/w_shotgun.mdl"
-ITEM.class = "weapon_shotgun"
+ITEM.class = "tfa_projecthl2_spas12"
 ITEM.weaponCategory = "primary"
-ITEM.classes = {CLASS_EOW}
 ITEM.width = 3
 ITEM.height = 1
 ITEM.iconCam = {

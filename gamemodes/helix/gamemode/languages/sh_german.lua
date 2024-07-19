@@ -4,7 +4,7 @@
 NAME = "Deutsch"
 
 LANGUAGE = {
-    helix = "Helix",
+    helix = "Distorting.ru HL2RP",
 
     introTextOne = "fist industries präsentiert",
     introTextTwo = "in Zusammenarbeit mit %s",

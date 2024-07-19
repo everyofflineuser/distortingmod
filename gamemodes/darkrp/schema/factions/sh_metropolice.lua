@@ -15,8 +15,6 @@ function FACTION:OnCharacterCreated(client, character)
 
 	character:SetData("cid", id)
 
-	inventory:Add("usp", 1)
-	inventory:Add("pistolammo", 2)
 	inventory:Add("cid", 1, {
 		name = character:GetName(),
 		id = id
@@ -37,27 +35,75 @@ function FACTION:OnTransferred(character)
 end
 
 function FACTION:OnNameChanged(client, oldValue, value)
-	local character = client:GetCharacter()
+	-- Получаем список bodygroups модели
+	local bodygroups = client:GetBodyGroups()
 
-	if (!Schema:IsCombineRank(oldValue, "ПКЮ.03") and Schema:IsCombineRank(value, "ПКЮ.03")) then
-		character:JoinClass(CLASS_PO)
-	elseif (!Schema:IsCombineRank(oldValue, "КЮ.ОфЦ") and Schema:IsCombineRank(value, "КЮ.ОфЦ")) then
-		character:SetModel("models/policetrench.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "EpU") and Schema:IsCombineRank(value, "EpU")) then
-		character:JoinClass(CLASS_EMP)
-
-		character:SetModel("models/leet_police2.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "DvL") and Schema:IsCombineRank(value, "DvL")) then
-		character:SetModel("models/eliteshockcp.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "SeC") and Schema:IsCombineRank(value, "SeC")) then
-		character:SetModel("models/sect_police2.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "SCN") and Schema:IsCombineRank(value, "SCN")
-	or !Schema:IsCombineRank(oldValue, "SHIELD") and Schema:IsCombineRank(value, "SHIELD")) then
-		character:JoinClass(CLASS_MPS)
+	-- Проходимся по всем bodygroups и устанавливаем их в 0
+	for k, v in pairs(bodygroups) do
+		client:SetBodygroup(v.id, 0)
 	end
+	client:SetSkin(0)
 
-	if (!Schema:IsCombineRank(oldValue, "GHOST") and Schema:IsCombineRank(value, "GHOST")) then
-		character:SetModel("models/eliteghostcp.mdl")
+	if Schema:IsCombineRank(value, "ЮОН.ИеР") then
+		client:SetSkin(2)
+		client:SetBodygroup(1, 1)
+		client:SetBodygroup(2, 1)
+		client:SetBodygroup(4, 4)
+		client:SetBodygroup(9, 1)
+		client:SetBodygroup(10, 1)
+	elseif Schema:IsCombineRank(value, "ЮОН.МдК") then
+		client:SetSkin(1)
+		client:SetBodygroup(2, 1)
+		client:SetBodygroup(4, 2)
+		client:SetBodygroup(10, 1)
+		client:SetBodygroup(11, 1)
+		client:SetBodygroup(15, 1)
+		client:SetBodygroup(16, 1)
+	elseif Schema:IsCombineRank(value, "ЮОН.ШрК") then
+		client:SetSkin(6)
+		client:SetBodygroup(2, 1)
+		client:SetBodygroup(3, 3)
+		client:SetBodygroup(4, 3)
+		client:SetBodygroup(10, 1)
+		client:SetBodygroup(11, 1)
+		client:SetBodygroup(12, 1)
+		client:SetBodygroup(15, 1)
+		client:SetBodygroup(16, 1)
+	elseif Schema:IsCombineRank(value, "ПКЮ") then
+		client:SetBodygroup(2, 1)
+		client:SetBodygroup(4, 1)
+		client:SetBodygroup(9, 1)
+		client:SetBodygroup(10, 1)
+		client:SetBodygroup(13, 1)
+		client:SetBodygroup(15, 1)
+		client:SetBodygroup(16, 1)
+	elseif Schema:IsCombineRank(value, "КЮ.ОфЦ") then
+		client:SetSkin(3)
+		client:SetBodygroup(2, 2)
+		client:SetBodygroup(3, 6)
+		client:SetBodygroup(4, 5)
+		client:SetBodygroup(10, 1)
+		client:SetBodygroup(13, 1)
+		client:SetBodygroup(15, 1)
+		client:SetBodygroup(16, 1)
+	elseif Schema:IsCombineRank(value, "КЮ.Дисп") then
+		client:SetSkin(5)
+		client:SetBodygroup(2, 2)
+		client:SetBodygroup(3, 7)
+		client:SetBodygroup(4, 5)
+		client:SetBodygroup(10, 1)
+		client:SetBodygroup(11, 1)
+		client:SetBodygroup(15, 1)
+		client:SetBodygroup(16, 1)
+	elseif Schema:IsCombineRank(value, "КЮ.КС") then
+		client:SetSkin(10)
+		client:SetBodygroup(2, 1)
+		client:SetBodygroup(3, 2)
+		client:SetBodygroup(4, 5)
+		client:SetBodygroup(10, 1)
+		client:SetBodygroup(11, 1)
+		client:SetBodygroup(15, 1)
+		client:SetBodygroup(16, 1)
 	end
 end
 

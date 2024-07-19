@@ -393,26 +393,6 @@ command.new("exit")
 	end)
 :End()
 
-command.new("time")
-	:SetPermission("time", "user")
-
-	:AddArg("player", {single_target = true, optional = true})
-
-	:Help("time_help")
-
-	:OnExecute(function(ply, targets)
-		if ply == targets[1] then
-			sam.player.send_message(ply, "time_your", {
-				V = sam.reverse_parse_length(targets[1]:sam_get_play_time() / 60)
-			})
-		else
-			sam.player.send_message(ply, "time_player", {
-				T = targets, V = sam.reverse_parse_length(targets[1]:sam_get_play_time() / 60)
-			})
-		end
-	end)
-:End()
-
 command.new("admin")
 	:SetPermission("admin_mode", "admin")
 

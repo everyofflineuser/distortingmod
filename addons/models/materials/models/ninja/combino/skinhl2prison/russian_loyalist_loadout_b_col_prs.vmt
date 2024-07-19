@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/skinhl2prison/russian_loyalist_loadout_b_col_prs"
+	"$bumpmap"    "models\ninja/combino/russian_loyalist_loadout_b_nml"
+//	"$color2"	"[0.6 0.8 0.8]"
+//	"$blendTintByBaseAlpha"	"1"
+	
+	"$phongexponenttexture" "models\ninja/combino/russian_loyalist_loadout_b_spc"
+	"$phongexponent" "12"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"0.25"
+	"$phongfresnelranges"	"[1 1.25 3.25]"
+    "$lightwarptexture" 	"models\ninja/combino/Shared/Clothes_WRP"
+	
+//	"$detail"	"models\ninja/kingdoms/ettericks/legs/l0_01_ma__redania_guard_ao"
+//	"$detailscale"	"1"
+//	"$detailblendfactor"	"0.3"
+}
+
+

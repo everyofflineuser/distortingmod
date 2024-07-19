@@ -11,7 +11,7 @@ ix.config.language = "russian"
 	Use the menu to change the variables, not this file.
 --]]
 
-ix.config.Add("maxCharacters", 2, "The maximum number of characters a player can have.", nil, {
+ix.config.Add("maxCharacters", 5, "The maximum number of characters a player can have.", nil, {
 	data = {min = 1, max = 50},
 	category = "characters"
 })
@@ -28,13 +28,13 @@ ix.config.Add("color", Color(122, 73, 191, 255), "The main color theme for the f
 		hook.Run("ColorSchemeChanged", newValue)
 	end
 end, {category = "appearance"})
-ix.config.Add("font", "Roboto Th", "The font used to display titles.", function(oldValue, newValue)
+ix.config.Add("font", "Roboto Regular", "The font used to display titles.", function(oldValue, newValue)
 	if (CLIENT) then
 		hook.Run("LoadFonts", newValue, ix.config.Get("genericFont"))
 	end
 end, {category = "appearance"})
 
-ix.config.Add("genericFont", "Roboto", "The font used to display generic texts.", function(oldValue, newValue)
+ix.config.Add("genericFont", "Roboto Th", "The font used to display generic texts.", function(oldValue, newValue)
 	if (CLIENT) then
 		hook.Run("LoadFonts", ix.config.Get("font"), newValue)
 	end
@@ -66,19 +66,19 @@ ix.config.Add("oocDelay", 10, "The delay before a player can use OOC chat again 
 ix.config.Add("allowGlobalOOC", true, "Whether or not Global OOC is enabled.", nil, {
 	category = "chat"
 })
-ix.config.Add("loocDelay", 0, "The delay before a player can use LOOC chat again in seconds.", nil, {
+ix.config.Add("loocDelay", 2, "The delay before a player can use LOOC chat again in seconds.", nil, {
 	data = {min = 0, max = 10000},
 	category = "chat"
 })
-ix.config.Add("spawnTime", 5, "The time it takes to respawn.", nil, {
+ix.config.Add("spawnTime", 10, "The time it takes to respawn.", nil, {
 	data = {min = 0, max = 10000},
 	category = "characters"
 })
-ix.config.Add("inventoryWidth", 6, "How many slots in a row there is in a default inventory.", nil, {
+ix.config.Add("inventoryWidth", 8, "How many slots in a row there is in a default inventory.", nil, {
 	data = {min = 0, max = 20},
 	category = "characters"
 })
-ix.config.Add("inventoryHeight", 4, "How many slots in a column there is in a default inventory.", nil, {
+ix.config.Add("inventoryHeight", 6, "How many slots in a column there is in a default inventory.", nil, {
 	data = {min = 0, max = 20},
 	category = "characters"
 })
@@ -137,7 +137,7 @@ ix.config.Add("vignette", true, "Whether or not the vignette is shown.", nil, {
 ix.config.Add("scoreboardRecognition", false, "Whether or not recognition is used in the scoreboard.", nil, {
 	category = "characters"
 })
-ix.config.Add("defaultMoney", 0, "The amount of money that players start with.", nil, {
+ix.config.Add("defaultMoney", 100, "The amount of money that players start with.", nil, {
 	category = "characters",
 	data = {min = 0, max = 1000}
 })
@@ -182,7 +182,7 @@ ix.config.Add("itemPickupTime", 0.5, "How long it takes to pick up and put an it
 	data = {min = 0, max = 5, decimals = 1},
 	category = "interaction"
 })
-ix.config.Add("year", 2015, "The current in-game year.", function(oldValue, newValue)
+ix.config.Add("year", 2001, "The current in-game year.", function(oldValue, newValue)
 	if (SERVER and !ix.date.bSaving) then
 		ix.date.ResolveOffset()
 		ix.date.current:setyear(newValue)

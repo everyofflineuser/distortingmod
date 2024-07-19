@@ -1,9 +1,8 @@
 ITEM.name = "Пистолет Альянса"
 ITEM.description = "A sidearm utilising 9mm Ammunition."
 ITEM.model = "models/weapons/w_pistol.mdl"
-ITEM.class = "tfa_projecthl2_usp.lua"
+ITEM.class = "tfa_projecthl2_usp"
 ITEM.weaponCategory = "sidearm"
-ITEM.classes = {CLASS_PO}
 ITEM.width = 2
 ITEM.height = 1
 ITEM.iconCam = {

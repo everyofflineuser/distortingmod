@@ -1,0 +1,10 @@
+"UnLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/Combinesoldier_headvisor_hexag2"
+	$translucent 1
+//	$addtitive 1
+//	"$selfillum" 1
+	$ambientocclusion 0
+}
+
+

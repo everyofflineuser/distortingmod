@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/skinhl2prison/atlas_security_tactical_armor_col#0_prs_pad3"
+	"$bumpmap"    "models\ninja/combino/skinhl2prison/atlas_security_tactical_armor_bump_prs3"
+	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.15"
+	"$phongfresnelranges"	"[5 7 8]"
+    "$lightwarptexture" 	"models\ninja/combino/shared/Clothes_wrp"
+	"$phongexponenttexture" "models\ninja/combino/atlas_security_tactical_armor_spc"
+}
+
+

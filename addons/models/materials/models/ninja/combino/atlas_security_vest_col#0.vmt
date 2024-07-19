@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/atlas_security_vest_col#0"
+	"$bumpmap"    "models\ninja/combino/atlas_security_vest_bump"
+	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.15"
+	"$phongfresnelranges"	"[5 7 8]"
+    "$lightwarptexture" 	"models\ninja/combino/shared/Clothes_wrp"
+	"$phongexponenttexture" "models\ninja/combino/atlas_security_vest_spc"
+}
+
+

@@ -628,7 +628,7 @@ do
 				return
 			end
 
-			if (!item.bAllowMultiCharacterInteraction and IsValid(client) and client:GetCharacter()) then
+			/*if (!item.bAllowMultiCharacterInteraction and IsValid(client) and client:GetCharacter()) then
 				local itemPlayerID = item:GetPlayerID()
 				local itemCharacterID = item:GetCharacterID()
 				local playerID = client:SteamID64()
@@ -641,7 +641,7 @@ do
 					item.entity = nil
 					return
 				end
-			end
+			end*/
 
 			local callback = item.functions[action]
 

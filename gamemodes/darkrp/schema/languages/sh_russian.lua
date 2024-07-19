@@ -1,5 +1,5 @@
 LANGUAGE = {
-	schemaName = "Half-Life 2 Roleplay",
+	schemaName = "Distorting.ru HL2RP",
 	tying = "Tying...",
 	unTying = "Untying...",
 	isTied = "Tied",

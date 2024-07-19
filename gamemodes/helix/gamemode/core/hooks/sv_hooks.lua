@@ -176,12 +176,12 @@ function GM:CanPlayerInteractItem(client, action, item, data)
 		end
 	end
 
-	if (isentity(item) and item.ixSteamID and item.ixCharID
+	/*if (isentity(item) and item.ixSteamID and item.ixCharID
 	and item.ixSteamID == client:SteamID() and item.ixCharID != client:GetCharacter():GetID()
 	and !item:GetItemTable().bAllowMultiCharacterInteraction) then
 		client:NotifyLocalized("itemOwned")
 		return false
-	end
+	end*/
 
 	return client:Alive()
 end

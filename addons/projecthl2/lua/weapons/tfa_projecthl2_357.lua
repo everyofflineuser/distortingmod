@@ -11,7 +11,7 @@ SWEP.Spawnable			= true --Can you, as a normal user, spawn this?
 SWEP.AdminSpawnable		= true --Can an adminstrator spawn this?  Does not tie into your admin mod necessarily, unless its coded to allow for GMod's default ranks somewhere in its code.  Evolve and ULX should work, but try to use weapon restriction rather than these.
 SWEP.DrawCrosshair		= true		-- Draw the crosshair?
 SWEP.DrawCrosshairIS	= false --Draw the crosshair in ironsights?
-SWEP.PrintName			= "Project HL2 .357"		-- Weapon name (Shown on HUD)
+SWEP.PrintName			= "Револьвер"		-- Weapon name (Shown on HUD)
 SWEP.Slot				= 1				-- Slot in the weapon selection menu.  Subtract 1, as this starts at 0.
 SWEP.SlotPos			= 1.347 * 10			-- Position in the slot
 SWEP.AutoSwitchTo		= true		-- Auto switch to if we pick it up
@@ -20,6 +20,7 @@ SWEP.Weight				= 1.347 * 10			-- This controls how "good" the weapon is for auto
 SWEP.Ergonomics = 100
 --[[WEAPON HANDLING]]--
 SWEP.Primary.Sound = Sound("Project_MMOD_357.Fire") -- This is the sound of the weapon, when you shoot.
+SWEP.Instructions = "Задержите R: Убрать/Поставить оружие на пред."
 
 SWEP.Primary.PenetrationMultiplier = 1 --Change the amount of something this gun can penetrate through
 SWEP.Primary.Damage = 80 -- Damage, in standard damage points.

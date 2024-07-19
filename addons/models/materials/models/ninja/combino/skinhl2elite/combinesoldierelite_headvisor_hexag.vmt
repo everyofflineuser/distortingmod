@@ -1,0 +1,10 @@
+"UnLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/skinhl2elite/Combinesoldierelite_headvisor_hexag"
+	$translucent 1
+//	$addtitive 1
+//	"$selfillum" 1
+	$ambientocclusion 0
+}
+
+

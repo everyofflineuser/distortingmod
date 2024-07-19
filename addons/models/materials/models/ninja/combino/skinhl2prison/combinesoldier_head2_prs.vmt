@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/skinhl2prison/Combinesoldier_head2_prs"
+	"$bumpmap"    "models\ninja/combino/Combinesoldier_head_n2"
+	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"0"
+	"$phongboost"	"0.15"
+	"$phongfresnelranges"	"[5 7 8]"
+    "$lightwarptexture" 	"models\ninja/combino/shared/Clothes_wrp"
+	"$phongexponenttexture" "models\ninja/combino/Combinesoldier_head_spc"
+	"$selfillum" 1
+}
+
+

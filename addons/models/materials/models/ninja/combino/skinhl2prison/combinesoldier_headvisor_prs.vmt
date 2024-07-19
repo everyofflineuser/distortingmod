@@ -1,0 +1,10 @@
+"UnLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/skinhl2prison/Combinesoldier_headvisor_hexag_prs"
+	$translucent 1
+//	$addtitive 1
+//	"$selfillum" 1
+	$ambientocclusion 0
+}
+
+

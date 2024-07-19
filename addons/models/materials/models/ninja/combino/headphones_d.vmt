@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/combino/headphones_d"
+	"$bumpmap"    "models\ninja/combino/headphones_n"
+
+	
+	"$phongexponenttexture" "models\ninja/combino/headphones_s"
+	$phongexponent 8
+	"$phongalbedotint" 0
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1.25 3.25]"
+    "$lightwarptexture" 	"models\ninja/combino/shared/Clothes_WRP"
+
+}
+
+
